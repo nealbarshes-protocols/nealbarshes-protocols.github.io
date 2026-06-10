@@ -1,12 +1,10 @@
 title: DeBakey VA vascular
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "light"               # "dark" also available
-
-# Add or update this line:
 just_the_docs:
   custom_css:
     - "assets/css/custom.css"
     
+color_scheme: "light"               # "dark" also available
 
 url: "https://nealbarshes-protocols.github.io"
 baseurl: ""  # if deploying to main repo root, else use "/repo-name"
