@@ -1,5 +1,5 @@
 ---
-title: lower extrem PAD
+title: lower extrem revasc.
 nav_order: 3
 ---
 
