@@ -3,6 +3,8 @@ remote_theme: just-the-docs/just-the-docs
 just_the_docs:
   custom_css:
     - "assets/css/custom.css"
+  includes:
+    head_custom: "_includes/head_custom.html"
     
 color_scheme: "light"               # "dark" also available
 
