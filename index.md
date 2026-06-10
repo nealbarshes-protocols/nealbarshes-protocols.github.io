@@ -4,7 +4,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 ### Welcome to the DeBakey VA Vascular Surgery Team. 
 These are our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes.github.io/Team/OrientationResidentsFellows/), and for [medical students](https://nealbarshes.github.io/Team/OrientationStudents/).
 <br>
-
+![team logo](assets/VAvascularTeamLogo_07_400px.png)
 | <b>Core resources for our team:</b> |
 |:---|
 |Note: Due to identifiers, these documents are on VA OneDrive and therefore <b>only open on VA computers</b>|
@@ -36,7 +36,7 @@ For <b>continuous improvement</b> and <b>patient safety</b>: use [this slide tem
 
 These are our team’s <b>contingency plans</b> for [needlestick/sharps injuries](https://nealbarshes.github.io/Team/ContingencyPlans/Needlestick), [intraoperative site contamination](https://nealbarshes.github.io/Team/ContingencyPlans/Contamination), and [weather events](https://nealbarshes.github.io/Team/ContingencyPlans/WeatherEvents/). 
 
-![team logo](https://nealbarshes.github.io/assets/VAhoustonVascularLogo3.jpg)
+
 
 The <b>tenets</b> guiding our service are: 
 1. Providing outstanding patient care.  
