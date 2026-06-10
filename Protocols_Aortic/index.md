@@ -1,3 +1,8 @@
+---
+title: aortic
+nav_order: 6
+---
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
 gtag('config', 'G-YPLVGC5FDP'); </script>
 
@@ -8,12 +13,12 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions |
-|03 | [Patient education, pre-op: AAA anatomy memo](https://nealbarshes.github.io/Team/Protocols_Aortic/03_PtInfo_VascularAnatomy_AAA.pdf) |
-|03 | [Patient education, pre-op: aorta in entirety anatomy memo](https://nealbarshes.github.io/Team/Protocols_Aortic/03_PtInfo_VascularAnatomy_AortaEntirety.pdf) |
-|03 | [Patient education, pre-op: SVS AAA flyer](https://nealbarshes.github.io/Team/Protocols_Aortic/03_PtInfo_SVS_AAA.pdf) |
+|03 | [Patient education, pre-op: AAA anatomy memo](https://nealbarshes-protocols.github.io/Protocols_Aortic/03_PtInfo_VascularAnatomy_AAA.pdf) |
+|03 | [Patient education, pre-op: aorta in entirety anatomy memo](https://nealbarshes-protocols.github.io/Protocols_Aortic/03_PtInfo_VascularAnatomy_AortaEntirety.pdf) |
+|03 | [Patient education, pre-op: SVS AAA flyer](https://nealbarshes-protocols.github.io/Protocols_Aortic/03_PtInfo_SVS_AAA.pdf) |
 |04 | Brillians code  |
 |05 | Pre-op checklist, additional items |
-|06 | [<b>Post-op orders</b>](https://nealbarshes.github.io/Team/Protocols_Aortic/06_PostOpOrders_AorticOpenSurgery.md) |
+|06 | [<b>Post-op orders</b>](https://nealbarshes-protocols.github.io/Protocols_Aortic/06_PostOpOrders_AorticOpenSurgery.md) |
 |07 | Post-op problems: protocols |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
