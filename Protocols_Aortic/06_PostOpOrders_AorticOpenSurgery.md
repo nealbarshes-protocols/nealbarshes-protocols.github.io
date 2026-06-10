@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+---
+
+
 ## Preoperative Considerations
 1. Hold any anti-platelet other than aspirin 7 days prior to surgery; hold warfarin 5 days prior, DOACs 2 days prior
 2. Avoid overnight fasting-- No solid food x 6hrs prior to surgery; clear liquid diet until 2 hours prior
