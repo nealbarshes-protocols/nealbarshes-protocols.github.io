@@ -14,17 +14,17 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | [History/ROS patient form for clinic](http://nealbarshes-protocols.github.io/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf) |
 |01 | [History/ROS answer key for CPRS paste](http:///nealbarshes-protocols.github.io/Protocols_AllPatients/01_HistoryROS_CPRSpaste_AllPatients.md) |
-|01 | [<b>ClinicNote</b>](http://nealbarshes.github.io/Team/Protocols_AllPatients/01_ClinicNote.md) |
+|01 | [<b>ClinicNote</b>](http://nealbarshes-protocols.github.io/Protocols_AllPatients/01_ClinicNote.md) |
 |02 | [Patient instructions, pre-op](http:///nealbarshes-protocols.github.io/Protocols_AllPatients/VascularTeam_PatientInstructionsPreOp.pdf) |
 |03 | [Patient education, pre-op: anatomy drawing template](http:///nealbarshes-protocols.github.io/Protocols_AllPatients/02_PatientInfo_AllPatients_VascularAnatomy.pdf) |
 |04 | Brillians code: Pre-op review |
 |04 | Brillians code: "ABCDE" review |
-|05 | [Pre-op checklist](http://nealbarshes-protocols.github.io//Protocols_AllPatients/05_PreOpChecklist_AllPatients) |
+|05 | [Pre-op checklist](http://nealbarshes-protocols.github.io//Protocols_AllPatients/05_PreOpChecklist_AllPatients.md) |
 |06 | [<b>Post-op orders</b>](http://nealbarshes-protocols.github.io/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
 |07 | [<b>Inpatient SOAP note template</b>](http://nealbarshes-protocols.github.io/Protocols_AllPatients/08_InpatientProgressNote_AllPatients) |
 |08 | [Post-op problems: protocols](http://nealbarshes-protocols.github.io/Protocols_AllPatients/08_PostOpProblems_AllPatients.md) |
 |09 | Discharge planning |
-|10 | [Patient discharge instructions](http://nealbarshes-protocols.github.io/Protocols_AllPatients/10_DischargeInstructions_AllPatients.md) |
+|10 | [Patient discharge instructions](http://nealbarshes-protocols.github.io/Protocols_AllPatients/10_DischargeInstructions_AllPatients) |
 |11 | Patient education, post-op |
 |12 | Clinic follow-up |
 
