@@ -1,5 +1,5 @@
 title: DeBakey VA vascular
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"               # "dark" also available
 
 url: "https://nealbarshes-protocols.github.io"
