@@ -29,7 +29,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |12 | Clinic follow-up |
 
 
-![team logo](https://nealbarshes.github.io/Team/OtherFiles/DeBakeyDecal02.jpg)
+![team logo](assets/DeBakeyDecal_400px.png)
 
 ### Habits that lead to satisfied patients that trust you:
 1. Introduce yourself and state your role.
