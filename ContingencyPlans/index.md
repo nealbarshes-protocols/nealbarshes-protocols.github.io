@@ -3,7 +3,7 @@ title: contingency plans
 nav_order: 9
 ---
 
-![team logo](assets/VAvascularTeamLogo_07_400px.png)
+![team logo](../assets/VAvascularTeamLogo_07_400px.png)
 <br>
 
 # 1. [Inadvertent employee /trainee needlestick](https://nealbarshes-protocols.github.io/ContingencyPlans/Needlestick/)
