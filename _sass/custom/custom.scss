@@ -108,3 +108,51 @@ body,
 .main-content h4 {
   font-weight: 600;
 }
+
+/* -----------------------------
+   Main content links
+------------------------------ */
+
+.main-content a {
+  color: #0b2a42; /* dark navy */
+  text-decoration-color: rgba(11, 42, 66, 0.35);
+}
+
+.main-content a:visited {
+  color: #6b1f2a; /* muted oxblood for visited/clicked links */
+  text-decoration-color: rgba(107, 31, 42, 0.35);
+}
+
+.main-content a:hover {
+  color: #123d5a;
+  text-decoration-color: #123d5a;
+}
+
+/* Keep heading anchor links subtle */
+.main-content .anchor-heading {
+  color: #6b7280;
+}
+/* -----------------------------
+   Search bar: white field, black text
+------------------------------ */
+
+.search-input {
+  background-color: #ffffff;
+  color: #111111;
+  border-color: #d1d5db;
+}
+
+.search-input::placeholder {
+  color: #6b7280;
+}
+
+.search-label .search-icon {
+  color: #111111;
+}
+
+.search-input:focus {
+  background-color: #ffffff;
+  color: #111111;
+  border-color: #9ca3af;
+  box-shadow: none;
+}
