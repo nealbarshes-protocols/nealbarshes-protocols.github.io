@@ -35,9 +35,11 @@ We are proud to serve a **diverse patient population**: 55% of our limb salvage 
 
 ## Our team has been recognized for _outstanding clinical outcomes_.
 
-For the past decade, our Operative Care Line and our vascular surgery team have typically has observed-to-expected (O:E) ratios for perioperative mortality and morbidity that are well below 1.0, and often reaching statistically-significant margins below 1.0 (i.e. that our team is a "low outlier" for perioperative complications; example mortality O:E of 0.38 for our vascular surgery team in spring 2026). Multidisciplinary efforts led my our team has led to a [60% reduction in leg amputation incidence rate among diabetic Veterans](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745363/).
+For the past decade, our vascular surgery team has had observed-to-expected (O:E) ratios for perioperative mortality and morbidity that are well below 1.0. These often reaching statistically-significant margins below 1.0 (i.e. that our team is a "low outlier" for perioperative complications; example mortality O:E of 0.38 for our vascular surgery team in spring 2026). 
 
->Clinical excellence happen without **consistency**, **communication**, dedication to **continuous improvement**, and **high-quality feedback**. 
+Multidisciplinary efforts led by our team have [reduced the leg amputation incidence rate among diabetic Veterans by 60%](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745363/).
+
+>Long-standing clinical excellence occurs through **consistency**, **communication**, **high-quality feedback** and a dedication to **continuous improvement**. 
 
 **Consistency** can be achieved by adhering to the protocols listed here. Discuss ideas for improvement or modification with staff before implementing. 
 
