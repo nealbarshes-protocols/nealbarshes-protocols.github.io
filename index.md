@@ -7,7 +7,7 @@ nav_order: 1
 gtag('config', 'G-YPLVGC5FDP'); </script>
 
 ### Welcome to the DeBakey VA Vascular Surgery Team. 
-These are our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes.github.io/Team/OrientationResidentsFellows/), and for [medical students](https://nealbarshes.github.io/Team/OrientationStudents/).
+
 <br>
 
 ![team logo](assets/VAvascularTeamLogo_07_400px.png)
@@ -26,19 +26,11 @@ These are our orientation materials for [general surgery residents, vascular res
 <br>
 <br>
 
-| <b>Service-specific guidance for clinical care</b> |
-| --- |
-| #1 <b>[ALL PATIENTS ("default settings")](https://nealbarshes.github.io/Team/Protocols_AllPatients/)</b>|
-| #2 [lower extremity revascularization](https://nealbarshes.github.io/Team/Protocols_LowerExtPAD) |
-| #3 [leg amputation](https://nealbarshes.github.io/Team/Protocols_LowerExtAmp) |
-| #4 [carotid](https://nealbarshes.github.io/Team/Protocols_Carotid) |
-| #5 [aortic](https://nealbarshes.github.io/Team/Protocols_Aortic) |
-| #6 [dialysis access](https://nealbarshes.github.io/Team/Protocols_DialysisAccess/) |
-| #7 [venous](https://nealbarshes.github.io/Team/Protocols_Venous/) |
+
 
 <br>
 
-Please review these orientation materials for your rotation. We have [team morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport) Mondays and Thursdays starting at 0745am. We have in-person [clinic](https://nealbarshes.github.io/Team/OtherFiles/VascularTeam_Clinic_SwimLanes.docx) every Thursday and every Monday morning. 
+These are our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes.github.io/Team/OrientationResidentsFellows/), and for [medical students](https://nealbarshes.github.io/Team/OrientationStudents/). We have [team morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport) Mondays and Thursdays starting at 0745am. We have in-person [clinic](https://nealbarshes.github.io/Team/OtherFiles/VascularTeam_Clinic_SwimLanes.docx) every Thursday and every Monday morning. 
 
 For <b>continuous improvement</b> and <b>patient safety</b>: use [this slide template for M&M presentations](https://nealbarshes.github.io/Team/MMconference/VascularTeam_Mtg_M&M_SlideTemplate.pptx). Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F) to report systems issues. Also Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
 
