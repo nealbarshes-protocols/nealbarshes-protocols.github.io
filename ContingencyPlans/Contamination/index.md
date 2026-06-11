@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+---
+
+
 ### During the case:
 1. Swab the surgical field, the contaminated/suspicious instrument(s), and other instruments in the set or table.  
 2. Irrigate with antibiotic solution.  
