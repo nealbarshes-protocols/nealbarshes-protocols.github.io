@@ -248,3 +248,28 @@ body,
 .main-content table ul:last-child {
   margin-bottom: 0;
 }
+
+
+
+/* -----------------------------
+   Mobile hamburger menu icon
+   Remove purple; use light gray
+------------------------------ */
+
+.site-button,
+.site-button:visited {
+  color: #d1d5db !important;
+}
+
+.site-button:hover,
+.site-button:focus {
+  color: #ffffff !important;
+  background-color: #171717;
+}
+
+/* Make sure the SVG hamburger inherits the button color */
+.site-button svg,
+.site-button .icon {
+  color: inherit !important;
+  fill: currentColor !important;
+}
