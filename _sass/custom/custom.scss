@@ -1,0 +1,110 @@
+/* -----------------------------
+   Typography
+------------------------------ */
+
+body,
+.main-content,
+.nav-list,
+.search-input {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
+
+.site-title,
+.site-title:hover,
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  font-family: "Space Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: -0.025em;
+}
+
+.main-content {
+  font-size: 0.94rem;
+  line-height: 1.75;
+}
+
+/* -----------------------------
+   Black sidebar
+------------------------------ */
+
+.side-bar {
+  background-color: #050505;
+  color: #e5e7eb;
+}
+
+.site-header {
+  background-color: #050505;
+  border-bottom: 1px solid #222222;
+}
+
+.site-title,
+.site-title:hover {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.site-button {
+  color: #ffffff;
+}
+
+/* -----------------------------
+   Sidebar navigation
+------------------------------ */
+
+.nav-list .nav-list-link {
+  color: #d1d5db;
+}
+
+.nav-list .nav-list-link:hover,
+.nav-list .nav-list-link.active {
+  color: #ffffff;
+  background-color: #171717;
+}
+
+/* Child navigation links */
+.nav-list .nav-list-item .nav-list-expander {
+  color: #d1d5db;
+}
+
+.nav-list .nav-list-item .nav-list-expander:hover {
+  background-color: #171717;
+}
+
+/* -----------------------------
+   Search box in sidebar/header
+------------------------------ */
+
+.search-input {
+  background-color: #111111;
+  color: #f9fafb;
+  border-color: #333333;
+}
+
+.search-input::placeholder {
+  color: #9ca3af;
+}
+
+.search-label .search-icon {
+  color: #d1d5db;
+}
+
+/* Search results */
+.search-results {
+  background-color: #ffffff;
+  color: #111827;
+}
+
+/* -----------------------------
+   Main content headings
+------------------------------ */
+
+.main-content h1 {
+  font-weight: 700;
+}
+
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  font-weight: 600;
+}
