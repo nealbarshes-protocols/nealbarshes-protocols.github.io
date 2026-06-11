@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+---
+
+
 ### Sharps injury, in operating room or anywhere else: 
 
 First, scrub out of the case. If skin, wash with soap. If eye, rinse with eye irrigation bottle system  located by the handwashing sinks. 
