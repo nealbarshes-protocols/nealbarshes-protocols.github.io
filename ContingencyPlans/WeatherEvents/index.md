@@ -1,4 +1,8 @@
-<b>For rain storms (hurricanes, tropical storms) tornados, and winter storms (snow, "black ice" or other freezings) with the potential to affect electrical power, cell phone networks, and/or roadways.<b>
+---
+nav_exclude: true
+---
+
+<b>For rain storms (hurricanes, tropical storms) tornados, and winter storms (snow, "black ice" or other freezings) with the potential to affect electrical power, cell phone networks, and/or roadways.</b>
 
 ### Several days before:  
 1. Acting service chief copies updated team roster and call schedule to shared BCM OneDrive folder.  
