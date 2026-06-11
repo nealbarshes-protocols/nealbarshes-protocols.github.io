@@ -156,3 +156,57 @@ body,
   border-color: #9ca3af;
   box-shadow: none;
 }
+
+/* -----------------------------
+   Sidebar active + hover states
+   Remove purple; use warm highlight
+------------------------------ */
+
+/* Normal sidebar nav links */
+.side-bar .nav-list .nav-list-link {
+  color: #d1d5db;
+}
+
+/* Visited sidebar links: prevent browser/JTD purple */
+.side-bar .nav-list .nav-list-link:visited {
+  color: #d1d5db;
+}
+
+/* Current page in sidebar */
+.side-bar .nav-list .nav-list-link.active {
+  color: #0b2a42; /* dark navy text */
+  background-color: #fff6d6; /* warm white with a little yellow */
+  font-weight: 600;
+}
+
+/* Hovered sidebar page title */
+.side-bar .nav-list .nav-list-link:hover {
+  color: #0b2a42; /* dark navy text */
+  background-color: #fff6d6; /* warm white/yellow highlight */
+}
+
+/* Optional: oxblood instead of navy for active/hover text */
+/*
+.side-bar .nav-list .nav-list-link.active,
+.side-bar .nav-list .nav-list-link:hover {
+  color: #6b1f2a;
+}
+*/
+
+/* Parent expand/collapse buttons */
+.side-bar .nav-list .nav-list-expander {
+  color: #d1d5db;
+}
+
+/* Parent expand/collapse hover */
+.side-bar .nav-list .nav-list-expander:hover {
+  color: #0b2a42;
+  background-color: #fff6d6;
+}
+
+/* Site title stays white */
+.side-bar .site-title,
+.side-bar .site-title:hover,
+.side-bar .site-title:visited {
+  color: #ffffff;
+}
