@@ -175,14 +175,14 @@ body,
 /* Current page in sidebar */
 .side-bar .nav-list .nav-list-link.active {
   color: #0b2a42; /* dark navy text */
-  background-color: #fff6d6; /* warm white with a little yellow */
+  background-color: #fff0b8; /* warm white with a little yellow */
   font-weight: 600;
 }
 
 /* Hovered sidebar page title */
 .side-bar .nav-list .nav-list-link:hover {
   color: #0b2a42; /* dark navy text */
-  background-color: #fff6d6; /* warm white/yellow highlight */
+  background-color: #fff0b8;; /* warm white/stronger yellow highlight */
 }
 
 /* Optional: oxblood instead of navy for active/hover text */
@@ -209,4 +209,42 @@ body,
 .side-bar .site-title:hover,
 .side-bar .site-title:visited {
   color: #ffffff;
+}
+
+/* -----------------------------
+   Table typography: match body text
+------------------------------ */
+
+.main-content table {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.main-content table th,
+.main-content table td {
+  font-family: inherit;
+  font-size: 0.94rem;   /* match your current body text */
+  line-height: 1.75;    /* match your current body/list spacing */
+  vertical-align: top;
+}
+
+/* Prevent paragraphs/lists inside table cells from adding weird extra spacing */
+.main-content table p,
+.main-content table ol,
+.main-content table ul {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.main-content table p:first-child,
+.main-content table ol:first-child,
+.main-content table ul:first-child {
+  margin-top: 0;
+}
+
+.main-content table p:last-child,
+.main-content table ol:last-child,
+.main-content table ul:last-child {
+  margin-bottom: 0;
 }
