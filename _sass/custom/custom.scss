@@ -273,3 +273,18 @@ body,
   color: inherit !important;
   fill: currentColor !important;
 }
+
+/* -----------------------------
+   Mobile table behavior
+   Preserve readable text; allow horizontal scroll
+------------------------------ */
+
+.table-wrapper,
+.main-content .table-wrapper {
+  overflow-x: auto;
+}
+
+.main-content table {
+  width: max-content;
+  min-width: 100%;
+}
