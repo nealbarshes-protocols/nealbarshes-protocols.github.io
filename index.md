@@ -1,52 +1,70 @@
 ---
-title: cover page
+title: Home
 nav_order: 1
 ---
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
 gtag('config', 'G-YPLVGC5FDP'); </script>
 
-### Welcome to the DeBakey VA Vascular Surgery Team. 
-
 <br>
 
 ![team logo](assets/VAvascularTeamLogo_07_400px.png)
 <br>
 
+
+
+This website is a directory for our team's clinical protocols and other resources for clinical use. These protocols have been developed and refined through years of clinical experience, and they are continuously modified to improve further.
+
+
 | <b>Core resources for our team:</b> |
 |:---|
-|Note: Due to identifiers, these documents are on VA OneDrive and therefore <b>only open on VA computers</b>|
+|Note: Intranet / VA computers only|
 |1. [roster](https://dvagov-my.sharepoint.com/:w:/g/personal/neal_barshes_va_gov/EWOepLgwomhCpGkVNxiDmusBOtmFvgRcy_gSczzoW9qksg?e=rILDjG)|
 |2. [schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW)|
 |3. [inpatient list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR)| 
 |4. [Teams channel](https://teams.microsoft.com/l/team/19%3AUWt1rm95aZuBXSEtKOAjI2mfFsXebgf5Y7EmWnAMOmA1%40thread.tacv2/conversations?groupId=67fda0c4-93c6-4b8f-bea3-0aef3553d290&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
-|5. [Qgenda](https://app.qgenda.com/landingpage/medva) for on-call schedule and contact information for _other_ teams.| 
+|5. [Qgenda](https://app.qgenda.com/landingpage/medva) for schedule & contact information of _other_ teams.| 
 |6. [CPT and ICD-10 code sheet](https://nealbarshes.github.io/Team/OtherFiles/NRB_OR_CPTcodesV2-1.pdf)
 
 <br>
 <br>
 
+Our vascular surgery rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s[{1}](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ) and expaned to become the busiest VA vascular surgery service in the United States.
+
+We are proud to serve a **diverse patient population**: 55% of our limb salvage population comprised of people categorized as Black or Hispanic[{2}](https://pubmed.ncbi.nlm.nih.gov/36759932/), and many travel here from throughout southeast Texas and Louisiana [{3}](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html).  
+
+## Our team has been recognized for _outstanding clinical outcomes_.
+
+For the past decade, our Operative Care Line and our vascular surgery team have typically has observed-to-expected (O:E) ratios for perioperative mortality and morbidity that are well below 1.0, and often reaching statistically-significant margins below 1.0 (i.e. that our team is a "low outlier" for perioperative complications; example mortality O:E of 0.38 for our vascular surgery team in spring 2026). Multidisciplinary efforts led my our team has led to a [60% reduction in leg amputation incidence rate among diabetic Veterans](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745363/).
+
+>Clinical excellence happen without **consistency**, **communication**, dedication to **continuous improvement**, and **high-quality feedback**. 
+
+**Consistency** can be achieved by adhering to the protocols listed here. Discuss ideas for improvement or modification with staff before implementing. 
+
+**Communication** should be direct (not layered/hierarchical), and occurs team-wide at [team morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport), Mondays and Thursdays at 0745am.
+
+Our main forum for **continuous improvement** and **high-quality feedback** is M&M conference with presentations using [this slide M&M slide template](https://nealbarshes.github.io/Team/MMconference/VascularTeam_Mtg_M&M_SlideTemplate.pptx). Hospital system's issues should be reported using the Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F). Another option is Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
+
+## Our team has been recognized for earning _patient trust_.
+
+Please apply these principles to help foster trust among our patients and your colleagues.
 
 
-<br>
+## Our team has been recognized for _high quality teaching_.
 
-These are our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes.github.io/Team/OrientationResidentsFellows/), and for [medical students](https://nealbarshes.github.io/Team/OrientationStudents/). We have [team morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport) Mondays and Thursdays starting at 0745am. We have in-person [clinic](https://nealbarshes.github.io/Team/OtherFiles/VascularTeam_Clinic_SwimLanes.docx) every Thursday and every Monday morning. 
 
-For <b>continuous improvement</b> and <b>patient safety</b>: use [this slide template for M&M presentations](https://nealbarshes.github.io/Team/MMconference/VascularTeam_Mtg_M&M_SlideTemplate.pptx). Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F) to report systems issues. Also Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
-
-These are our team’s <b>contingency plans</b> for [needlestick/sharps injuries](https://nealbarshes.github.io/Team/ContingencyPlans/Needlestick), [intraoperative site contamination](https://nealbarshes.github.io/Team/ContingencyPlans/Contamination), and [weather events](https://nealbarshes.github.io/Team/ContingencyPlans/WeatherEvents/). 
+These are our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes.github.io/Team/OrientationResidentsFellows/), and for [medical students](https://nealbarshes.github.io/Team/OrientationStudents/). 
 
 
 
-The <b>tenets</b> guiding our service are: 
-1. Providing outstanding patient care.  
-2. Respect for all persons through speech and actions.  
-3. Clearly delineated roles and responsibilities. 
-4. Feedback as a necessity for growth and learning. 
 
-Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s[{1}](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ).  Ours has been the busiest VA vascular surgery service in the United States, and our Operative Care Line outcomes has been recognized as a “low outlier” (risk-adjusted mortality and mortality rates than significantly lower than expected) frequently over the past 10 years.  
 
-We are proud to serve a diverse patient population: 55% of our limb salvage population comprised of people categorized as Black or Hispanic[{2}](https://pubmed.ncbi.nlm.nih.gov/36759932/), and many travel here from throughout southeast Texas and Louisiana [{3}](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html).  
+
+
+
+
+
+
 
 
 
