@@ -1,9 +1,0 @@
-/* 2. Set the default body text font to JetBrains Mono */
-body, .site-main, .site-content, .main-content-wrap {
-  font-family: 'JetBrains Mono', monospace !important;
-}
-
-/* 3. Set headings to Space Grotesk */
-h1, h2, h3, h4, h5, h6, .site-title, .site-title a {
-  font-family: 'Space Grotesk', sans-serif !important;
-}
