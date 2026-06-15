@@ -22,7 +22,7 @@ Our rotation began as part of the Baylor College of Medicine peripheral vascular
 
 This page describes the service structure and roles. 
 
-![Houston / DeBakey VA Vascular](/assets/VAhoustonVascularLogo3.jpg "Houston / DeBakey VA Vascular")
+![Houston / DeBakey VA Vascular](https://nealbarshes-protocols.io/assets/VAvascularTeamLogo_07_400px.png)
 
 ## Service Ethos & Structure
 
