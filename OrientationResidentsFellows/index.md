@@ -18,26 +18,44 @@ nav_exclude: true
 
 ### Welcome to the Michael E. DeBakey V.A. Medical Center Vascular Surgery Service! 
 
-Our rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s{[1](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ)}. It is currently the busiest VA vascular surgery service in the country. With 55% of our limb salvage population comprised of people categorized as Black or Hispanic{[2](https://pubmed.ncbi.nlm.nih.gov/36759932/)}, and many traveling here from [throughout southeast Texas and Louisiana](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html), we serve very diverse patient population. You will have an unparalleled opportunity to learn about the surgical management of vascular disease and gain operative skills.  
-
 This page describes the service structure and roles. 
 
 ![team logo](../assets/VAvascularTeamLogo_07_400px.png)
 
 ## Service Ethos & Structure
+Our vascular surgery rotation began as part of the Baylor College of Medicine peripheral vascular surgery training program initiated by Dr. Michael E. DeBakey in the 1980s[{1}](https://books.google.com/books/about/The_History_of_Surgery_in_Houston.html?id=vuKJNgAACAAJ) and expanded to become the busiest VA vascular surgery service in the United States.
 
-The tenets guiding our service structure are:  
-1. Providing outstanding patient care. 
-2. Respecting for all persons.. 
-3. Taking the ownership afforded by clearly defined, level-appropriate roles.
-4. "Disintermediation": Direct action and communication with least possible hierarchy.
-5. Feedback as a necessity for growth and learning.
+As of February 2021 we have transitioned from the “mega-team” model to the “junior attending” model. This structure the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  This structure also provides more individualized teaching opportunities for senior and junior trainees. This servivce structure change -- and countless others implemented since 2021 -- have been the direct result of our team incorporating feedback from trainees. 
+
+We are proud to serve a **diverse patient population**: 55% of our limb salvage population comprised of people categorized as Black or Hispanic[{2}](https://pubmed.ncbi.nlm.nih.gov/36759932/), and many travel here from throughout southeast Texas and Louisiana [{3}](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html).  
+
+## Our team has been recognized for _outstanding clinical outcomes_.
+
+For the past decade, our vascular surgery team has had observed-to-expected (O:E) ratios for perioperative mortality and morbidity that are well below 1.0. These often reaching statistically-significant margins below 1.0 (i.e. that our team is a "low outlier" for perioperative complications; example mortality O:E of 0.38 for our vascular surgery team in spring 2026). 
+
+Multidisciplinary efforts led by our team have [reduced the leg amputation incidence rate among diabetic Veterans by 60%](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745363/).
+
+>Long-standing clinical excellence occurs through **consistency**, **communication**, **high-quality feedback** and a dedication to **continuous improvement**. 
+
+**Consistency** can be achieved by adhering to the protocols listed here. Discuss ideas for improvement or modification with staff before implementing. 
+
+**Communication** should be direct (not layered/hierarchical), and occurs team-wide at [team morning report](https://nealbarshes.github.io/Team/OtherFiles/MorningReport), Mondays and Thursdays at 0745am.
+
+Our main forum for **continuous improvement** and **high-quality feedback** is M&M conference with presentations using [this slide M&M slide template](https://nealbarshes.github.io/Team/MMconference/VascularTeam_Mtg_M&M_SlideTemplate.pptx). Hospital system's issues should be reported using the Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F). Another option is Baylor College of Medicine DeBakey Department of Surgery [“Voluntary Reporting of Errors and Safety Issues”](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx). 
 
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:12px; background-color: ##fdffde;">
 "The acquisition of skills requires a regular environment, and adequate opportunity to practice, and <b>rapid and unequivocal feedback about the correctness of thoughts and actions</b>. When these conditions are fullfilled, skill eventually develops, and the intuitive judgments and choices that quickly come to mind will mostly be accurate.” Daniel Kahneman, <i>Thinking Fast and Slow</i></blockquote>
 <br>
-<br>
-As of February 2021 we have transitioned from the “mega-team” model to the “junior attending” model. This team structure is most similar to the vast majority of clinical practices outside of academic medical centers. This means that as much of the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  This structure also provides more individualized teaching opportunities for senior and junior trainees. Finally, this also avoids the potential conflicts of having two senior trainees on the same service as described in the ACGME "common program requirements” section IV.C.8.c.   
+
+
+## Our team has been recognized for earning _patient trust_.
+
+Please apply [these principles](https://nealbarshes-protocols.github.io/Protocols_AllPatients/#habits-that-lead-to-satisfied-patients-that-trust-you) to help foster trust among our patients and your colleagues.
+
+## Our team has been recognized for _high quality teaching_.
+
+All our faculty are dedicated to surgical education. Our staff surgeons has been recognized with multiples awards for teaching efforts and have held educational leadrship positions within the College. We are looking forward to working with you while on our service.
+
 <br>
 <hr>
 
