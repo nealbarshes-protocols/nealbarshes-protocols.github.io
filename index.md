@@ -12,9 +12,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 <br>
 
 
-
-This website is a directory for our team's clinical protocols and other resources for clinical use. These protocols have been developed and refined through years of clinical experience, and they are continuously modified to improve further.
-
+This website is a directory for our team's clinical protocols and other resources for clinical use.
 
 | <b>Core resources for our team:</b> |
 |:---|
@@ -49,13 +47,12 @@ Our main forum for **continuous improvement** and **high-quality feedback** is M
 
 ## Our team has been recognized for earning _patient trust_.
 
-Please apply these principles to help foster trust among our patients and your colleagues.
+Please apply [these principles](https://nealbarshes-protocols.github.io/Protocols_AllPatients/#habits-that-lead-to-satisfied-patients-that-trust-you) to help foster trust among our patients and your colleagues.
 
 
 ## Our team has been recognized for _high quality teaching_.
 
-
-These are our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes.github.io/Team/OrientationResidentsFellows/), and for [medical students](https://nealbarshes.github.io/Team/OrientationStudents/). 
+All our faculty are dedicated to surgical education. Our staff surgeons has been recognized with multiples awards for teaching efforts and have held educational leadrship positions within the College. Here you can find our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/), and for [medical students](https://nealbarshes-protocols.github.io/OrientationStudents/). 
 
 
 
