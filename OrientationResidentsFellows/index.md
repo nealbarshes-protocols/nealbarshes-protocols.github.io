@@ -91,11 +91,21 @@ Commit to:
 2. [Senior resident or fellow](SeniorTrainee.md)
 3. [Night float](NightFloat.md)
 
-  
 <hr>
 
 ### Weekly Clinical and Educational Activities:
 <br>
+
+Day | Time | Conference | Participants
+------------ | ------------- | ------------- | ------------- |
+Mon | 0745-0815 | VA vascular morning report | VA staff, BCM residents, students
+Tue | 0700-0800 | BCM pre-op conference | BCM faculty, residents, students
+Wed | 0700-1000 | BCM surgery education | BCM faculty, residents, students
+Thu | 0745-0815 | VA vascular morning report | VA staff, BCM residents, students
+Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, residents, students
+
+
+
 <b>Monday:</b>
 <ul>
 <li>7:45am table rounds in 5A-321.</li>
