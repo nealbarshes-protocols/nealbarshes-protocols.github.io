@@ -87,9 +87,9 @@ Commit to:
 
 
 ### Level-Specific roles, duties and expectations: 
-1. [Daytime intern](OrientationResidentsFellows/DaytimeInterns.md)
-2. [Senior resident or fellow](OrientationResidentsFellows/SeniorTrainee.md)
-3. [Night float](OrientationResidentsFellows/NightFloat.md)
+1. [Daytime intern](DaytimeInterns.md)
+2. [Senior resident or fellow](SeniorTrainee.md)
+3. [Night float](NightFloat.md)
 
   
 <hr>
