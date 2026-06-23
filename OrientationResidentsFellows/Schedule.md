@@ -24,7 +24,7 @@ schedule:
         group: VA Vascular staff, trainees, medical students
   - name: Tuesday
     events:
-     - name: BCM Pre-Op conference
+      - name: BCM Pre-Op conference
         start: 7:00 AM
         end: 8:00 AM
         group: PGY-2+ BCM residents, medical students
@@ -42,7 +42,7 @@ schedule:
         group: VA Vascular staff, trainees, medical students
   - name: Friday
     events:
-      - name: M&M vs. didactics, alternating weeks
+      - name: morbidity and mortality vs. didactics, alternating weeks
         start: 7:00 AM
         end: 8:00 AM
         group: trainees, medical students
