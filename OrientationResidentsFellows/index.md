@@ -60,6 +60,8 @@ All our faculty are dedicated to surgical education. Our staff surgeons has been
 <hr>
 
 
+
+
 ### Behavior and attitudes expected of all trainees:
 
 NEVER: 
@@ -81,6 +83,13 @@ Commit to:
   <li>Developing two technical and one non-technical S.M.A.R.T. goal to be submitted by the end of your first week on rotation.</li>
   <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
 </ul>
+
+#### "Out-boarding" at the end of the rotation: 
+<ol>
+<li>Clear ALL your CPRS alerts.</li>
+<li>Sign all D/C summaries and orders.</li>
+<li>Assign a "surrogate" signer: under "Tools", "Options", "Surrogates" tab. Should be the resident taking over your role. </li>
+</ol>>
 
 <hr>
 
@@ -104,52 +113,8 @@ Wed | 0700-1000 | BCM surgery education | BCM faculty, residents, students
 Thu | 0745-0815 | VA vascular morning report | VA staff, BCM residents, students
 Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, residents, students
 
-
-
-<b>Monday:</b>
-<ul>
-<li>7:45am table rounds in 5A-321.</li>
-<li>Post-op face-to-face and telephone clinic</li>
-<li>OR8a cases.</li>
-</ul>
-
-<b>Tuesday:</b>
-<ul>
-<li>0700 pre-op conference, THI auditorium.</li>
-<li>OR8a.</li>
-<li>OR4, afternoon only.</li>
-<li>Tele-clinic.</li>
-</ul>
-
-<b>Wednesday:</b>
-<ul>
-<li>7-10am: General surgery resident education at Baylor.</li>
-<li>OR8a.</li>
-<li>OR4.</li>
-</ul>
-
-<b>Thursday:</b>
-<ul>
-<li>7:45am table rounds in the 5C clinic conference room.</li>
-<li>8:00am: face-to-face vascular surgery clinic.</li>
-<li>OR8a.</li>
-<li>Noon: vascular education conference -- focused on general surgery residents and students --  in the 5C clinic conference room.</li>
-</ul>
-
-<b>Friday:</b>
-<ul>
-<li>Vascular surgery M&M conference, either in 5B-166 or 5A-321 conference rooms.</li>
-<li>OR8a.</li>
-<li>OR4.</li>
-<li>Weekend sign-out to on-call team.</li>
-</ul>
-
-<b>Weekends:</b>
-<ul>
-<li>On-call senior to round with intern and speak with on-call attending.</li>
-<li>All weekend new admissions and new consults go to the on-call senior's service.</li>
-</ul>
-
+You should use this (Sharepoint parking hangtag request form)[https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/SitePages/VEHICLE-REGISTRATION-PORTAL.asp](https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/Lists/registration/Requestor_View.aspx?xsdata=MDV8MDF8fDRmYWU2Y2IxM2JmOTQ4MTY4ZjZhMDhkYWZmMGI4ZjhifGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2MzgxMDI3MjIzNDQzNTc3Mzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTkRZM05UUXpNekV6T0RzeE5qYzBOamMxTkRNek1UTTRPekU1T2pBek16SmxZVEEyTFRneU9UZ3ROR0l4TlMwNE5XUmhMV1ZsWVRsaFlqWXdZalV4TWw4NU5qSmpPRFk1WXkxaU5ESXlMVFE1TXpBdFlqYzJNaTAwTURrMll6RXdZV1V4T1dGQWRXNXhMbWRpYkM1emNHRmpaWE09fGRmNmIzMDA0MWEwNzQ2MTk4ZjZhMDhkYWZmMGI4ZjhifDRjMjA0Njk0YWVkZTQ1NTNhNTY2OTFhZjg3ZmI5OGZk&sdata=cHZsc2U3VE5DM3JZZ2ZPVVhYYzB4OW4waTNOYk1zOWdVSi96ZlFPZUlKTT0%3D&ovuser=e95f1b23-abaf-45ee-821d-b7ab251ab3bf%2cNathan.Schaeffer%40va.gov&OR=Teams-HL&CT=1674742794033&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) to get access to the parking tower when returning from BCM conferences. NOTE: This link will only work on VA computers.
+<br>
 <br>
 <br>
 <hr>
@@ -195,22 +160,9 @@ If a senior surgical trainee stays past 10pm, the on-call staff surgeon should b
 <br>
 Know that within the VA system, [verbal consent from the patient IS required for HIV testing](https://www.hiv.va.gov/provider/topics/testing-faq-occupational-exposures.asp). Therefore, <b>do NOT</b> ask for a needlestick exposure panel during the case; someone from the surgery team must obtain verbal consent when the patient has decision-making capacity. 
 
-#### Tips for working with our nurse practitioners: (<i>pending content</i>)
-<br>
 
-#### Requesting a parking hangtag: 
-[https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/SitePages/VEHICLE-REGISTRATION-PORTAL.asp](https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/Lists/registration/Requestor_View.aspx?xsdata=MDV8MDF8fDRmYWU2Y2IxM2JmOTQ4MTY4ZjZhMDhkYWZmMGI4ZjhifGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2MzgxMDI3MjIzNDQzNTc3Mzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTkRZM05UUXpNekV6T0RzeE5qYzBOamMxTkRNek1UTTRPekU1T2pBek16SmxZVEEyTFRneU9UZ3ROR0l4TlMwNE5XUmhMV1ZsWVRsaFlqWXdZalV4TWw4NU5qSmpPRFk1WXkxaU5ESXlMVFE1TXpBdFlqYzJNaTAwTURrMll6RXdZV1V4T1dGQWRXNXhMbWRpYkM1emNHRmpaWE09fGRmNmIzMDA0MWEwNzQ2MTk4ZjZhMDhkYWZmMGI4ZjhifDRjMjA0Njk0YWVkZTQ1NTNhNTY2OTFhZjg3ZmI5OGZk&sdata=cHZsc2U3VE5DM3JZZ2ZPVVhYYzB4OW4waTNOYk1zOWdVSi96ZlFPZUlKTT0%3D&ovuser=e95f1b23-abaf-45ee-821d-b7ab251ab3bf%2cNathan.Schaeffer%40va.gov&OR=Teams-HL&CT=1674742794033&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)x
-<br>
 
-#### Quality Improvement
-The [BCM MED Department of Surgery reporting of “near-misses", errors and safety issues.](https://orit.research.bcm.edu/Surgery/SurgerySelfReporting/Login.aspx) should be used for quality improvement related to these events.
 
-#### "Out-boarding" at the end of the rotation: 
-<ol>
-<li>Clear ALL your CPRS alerts.</li>
-<li>Sign all D/C summaries and orders.</li>
-<li>Assign a "surrogate" signer: under "Tools", "Options", "Surrogates" tab. Should be the resident taking over your role. </li>
-</ol>>
 
 <br>
 
