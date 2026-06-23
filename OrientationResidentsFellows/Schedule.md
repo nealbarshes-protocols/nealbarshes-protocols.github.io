@@ -11,7 +11,6 @@ timeline:
   - '1:00 PM'
   - '2:00 PM'
   - '3:00 PM'
-  - '3:30 PM'
   - '4:00 PM'
   - '4:30 PM'
   - '5:00 PM'
@@ -22,41 +21,29 @@ schedule:
       - name: VA Vascular morning report
         start: 7:45 AM
         end: 8:15 AM
-        location: 5B-321 (near Green elevators)
-
+        group: VA Vascular staff, trainees, medical students
   - name: Tuesday
     events:
-     - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+     - name: BCM Pre-Op conference
+        start: 7:00 AM
+        end: 8:00 AM
+        group: PGY-2+ BCM residents, medical students
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: BCM 
+        start: 7:00 AM
+        end: 10:00 AM
+        group: BCM surgery residents
   - name: Thursday
+    events:
+      - name: VA Vascular morning report
+        start: 7:45 AM
+        end: 8:15 AM
+        group: VA Vascular staff, trainees, medical students
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: M&M vs. didactics, alternating weeks
+        start: 7:00 AM
+        end: 8:00 AM
+        group: trainees, medical students
 ---
