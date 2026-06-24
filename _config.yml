@@ -15,7 +15,7 @@ search:
 nav_enabled: true
 heading_anchors: true
 
-footer_content: "© VA Team 2025 | For internal VA use only"
+footer_content: "©Neal Barshes on behalf of the DeBakey Vascular Team"
 
 plugins:
   - jekyll-remote-theme
