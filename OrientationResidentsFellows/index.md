@@ -60,29 +60,52 @@ This is the weekly schedule of conferences with an educational ±service compone
 
 Day | Time | Conference | Participants
 ------------ | ------------- | ------------- | ------------- |
-Mon | 0745-0815 | VA vascular morning report | VA staff, BCM residents, students
-Tue | 0700-0800 | BCM pre-op conference | BCM faculty, residents, students
-Wed | 0700-1000 | BCM surgery education | BCM faculty, residents, students
-Thu | 0745-0815 | VA vascular morning report | VA staff, BCM residents, students
-Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, residents, students
+Mon | 0745-0815 | VA vascular morning report | VA staff, BCM trainees, students
+Tue | 0700-0800 | BCM pre-op conference | BCM faculty, trainees, students
+Wed | 0700-1000 | BCM surgery education | BCM faculty, trainees, students
+Thu | 0745-0815 | VA vascular morning report | VA staff, BCM surgery residents, students
+Thu | 1200-1300 | VA vascular didactics | VA staff, BCM surgery residents, students
+Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, trainees, students
 
-(Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/Lists/registration/Requestor_View.aspx?xsdata=MDV8MDF8fDRmYWU2Y2IxM2JmOTQ4MTY4ZjZhMDhkYWZmMGI4ZjhifGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2MzgxMDI3MjIzNDQzNTc3Mzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTkRZM05UUXpNekV6T0RzeE5qYzBOamMxTkRNek1UTTRPekU1T2pBek16SmxZVEEyTFRneU9UZ3ROR0l4TlMwNE5XUmhMV1ZsWVRsaFlqWXdZalV4TWw4NU5qSmpPRFk1WXkxaU5ESXlMVFE1TXpBdFlqYzJNaTAwTURrMll6RXdZV1V4T1dGQWRXNXhMbWRpYkM1emNHRmpaWE09fGRmNmIzMDA0MWEwNzQ2MTk4ZjZhMDhkYWZmMGI4ZjhifDRjMjA0Njk0YWVkZTQ1NTNhNTY2OTFhZjg3ZmI5OGZk&sdata=cHZsc2U3VE5DM3JZZ2ZPVVhYYzB4OW4waTNOYk1zOWdVSi96ZlFPZUlKTT0%3D&ovuser=e95f1b23-abaf-45ee-821d-b7ab251ab3bf%2cNathan.Schaeffer%40va.gov&OR=Teams-HL&CT=1674742794033&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) to access the parking tower when returning from BCM conferences. NOTE: This link will only work on VA computers).
+
+
 
 <br>
 <hr>
 
 ### Educational service structure changes we made as a direct result of trainee feedback:
 
-1. **Feedback**: PGY-1 interns had long work hours, too many clinical responsibilities, and no operative experience
+>1. **Feedback**: PGY-1 interns had long work hours, too many clinical responsibilities, and no operative experience
    
 **Change implemented**: As of February 2021 we have transitioned from the “mega-team” model to the “junior attending” model. This structure the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  This structure also provides more individualized teaching opportunities for senior and junior trainees. We encourage interns to go to the operating room with their assigned team. 
 
-2. **Feedback**: Too few computers and workspaces for the team.
+>2. **Feedback**: Too few computers and workspaces for the team.
 
-**Change implemented**: As of ___, our team has had a workroom with seven cubicles, each with a desktop computers. 
+**Change implemented**: As of August 2023, our team has had a workroom with seven cubicles, each with a desktop computers. 
 
-3. Feedback: 
-4. Feedback: Call rooms not consistently available at night. 
+>3. **Feedback**: Parking spots are unavailable when returning from BCM conferences. 
+
+Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/Lists/registration/Requestor_View.aspx?xsdata=MDV8MDF8fDRmYWU2Y2IxM2JmOTQ4MTY4ZjZhMDhkYWZmMGI4ZjhifGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2MzgxMDI3MjIzNDQzNTc3Mzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTkRZM05UUXpNekV6T0RzeE5qYzBOamMxTkRNek1UTTRPekU1T2pBek16SmxZVEEyTFRneU9UZ3ROR0l4TlMwNE5XUmhMV1ZsWVRsaFlqWXdZalV4TWw4NU5qSmpPRFk1WXkxaU5ESXlMVFE1TXpBdFlqYzJNaTAwTURrMll6RXdZV1V4T1dGQWRXNXhMbWRpYkM1emNHRmpaWE09fGRmNmIzMDA0MWEwNzQ2MTk4ZjZhMDhkYWZmMGI4ZjhifDRjMjA0Njk0YWVkZTQ1NTNhNTY2OTFhZjg3ZmI5OGZk&sdata=cHZsc2U3VE5DM3JZZ2ZPVVhYYzB4OW4waTNOYk1zOWdVSi96ZlFPZUlKTT0%3D&ovuser=e95f1b23-abaf-45ee-821d-b7ab251ab3bf%2cNathan.Schaeffer%40va.gov&OR=Teams-HL&CT=1674742794033&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) to access the parking tower when returning from BCM conferences. NOTE: This link will only work on VA computers. 
+
+>4. **Feedback**: Call rooms not consistently available at night.
+
+**Change implemented**: On June 23rd we requested that the general surgery team vacate the call room designated for the on-call vascular surgery senior trainee. 
+
+>5. **Feedback**: More didactics conferences would be helpful.
+
+**Change implemented:** In addition to the educational conferences named above, intraoperative teaching, and teaching in the clinic, Drs. Barshes and Zamani will have 30 minute sessions following Monday or Tuesday phone clinic to review the topic in This Week in Score. 
+
+<hr>
+
+
+### iMed consents
+
+Here's a brief (3 minute 19 second) video primer on avoiding common errors in using iMed for informed consent:
+<p>
+  <a href="https://www.youtube.com/watch?v=c9fAX2qRgK4" title="YouTube Primer on Avoiding iMed Errors">
+    <img src=".../assets/Thumbnail_iMedConsentYT.png" alt="YouTube" />
+  </a>
+</p>
 
 
 
@@ -118,52 +141,6 @@ Commit to:
 
 <hr>
 
-
-
-
-
-<hr>
-<br>
-
-
-#### Our team’s process for transitioning clinical responsibilities when fatigue is an issue:
-
-Thank you to Drs. Jessica Rea, Zachary Chizmar and Jorge Miranda for helping develop this material.
-
-Transitioning clinical responsibilities is <i>mandatory</i> when:
-1. ill or fatigued
-2. additional clinical work would exceed 320 hours during any consecutive four week period
-3. on-call activities for senior trainees reaches a 24 hour period; see VI.F.3. of the [ACGME Common program requirements](https://www.acgme.org/Portals/0/PFAssets/ProgramRequirements/CPRs_Section%20VI_with-Background-and-Intent_2017-01.pdf)
- 
-Use the I-PASS acronym for hand-offs of clinical responsibilities:
-
-Letter | Component
------------- | -------------
-I= | Illness severity: stable, "watcher", unstable
-P= | Patient summary
-A= | Action list 
-S= | Situational awareness
-S= | Synthesis by receiver
-
-If a senior surgical trainee stays past 10pm, the on-call staff surgeon should be notified. Handoff using the aforementioned I-PASS acronym should be given to the night float resident. At 6am the following morning, the night float resident should then contact the incoming senior trainee to round on the patients of the senior surgical trainee that stayed late. This senior surgical trainee should come in 10 hours from leaving the hospital (ex. 10am if left at midnight, noon if left at 2am). 
-
-
-
-
-
-
-
-
-<br>
-
-#### Options for giving feedback on the rotation: 
-<ol>
-<li>Talk with one of the staff surgeons.</li>
-<li>Talk with one of the senior trainees.</li>
-<li>Talk with Dr. Barshes (vascular fellowship program director. surgery resident site director), Dr. Mills (vascular surgery residency director or Dr. Pallister (vascular surgery residency associate director).</li>
-<li>Provide written feedback on your end-of-rotation summary.</li>
-<li>Provide feedback on the annual (spring) annual residency program survey.</li>
-</ol>
 
 <hr>
 So glad you've read through all of this document!  
