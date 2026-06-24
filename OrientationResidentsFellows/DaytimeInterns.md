@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ### Roles, duties and expectations for Daytime/Inpatient Interns: 
 <ul>  
 <li>Working in a dyad with your paired senior trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is assigned to cover a clinic day. You should both see consults together.</li>
