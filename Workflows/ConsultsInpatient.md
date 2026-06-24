@@ -3,7 +3,7 @@ title: workflow: inpatient consults
 nav_order: 9
 ---
 
-This workflow applies to patients currently admitted to another inpatient service (ex. inpatient/general medicine).
+This workflow applies to patients currently who are admitted to another inpatient service (ex. inpatient/general medicine) and have an inpatient location. This does NOT pertain to E.R. consults not yet admitted or to outpatient consults seen in the hospital building (ex. ECL Wound Care clinic).
 
 ### Checklist
 1. Ensure the consulting clinician has entered a CPRS consult for our team. 
