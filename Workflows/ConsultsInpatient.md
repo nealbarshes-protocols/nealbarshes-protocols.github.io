@@ -1,6 +1,6 @@
 ---
-title: workflow, consults/inpatient
-nav_order: 9
+title: _workflow_consults/inpatient
+nav_order: 10
 ---
 
 This workflow applies to patients currently who are admitted to another inpatient service (ex. inpatient/general medicine) and have an inpatient location. This does NOT pertain to E.R. consults not yet admitted or to outpatient consults seen in the hospital building (ex. ECL Wound Care clinic).
