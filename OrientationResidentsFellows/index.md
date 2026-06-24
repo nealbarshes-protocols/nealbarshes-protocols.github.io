@@ -73,6 +73,29 @@ Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, train
 <br>
 <hr>
 
+### iMed consents
+
+Here's a brief (3 minute 19 second) video primer on avoiding common errors in using iMed for informed consent:
+<p>
+  <a href="https://www.youtube.com/watch?v=c9fAX2qRgK4" title="YouTube Primer on Avoiding iMed Errors">
+    <img src="https://nealbarshes-protocols.github.io/assets/Thumbnail_iMedConsentYT.png" alt="YouTube" />
+  </a>
+</p>
+
+### Encounter information
+
+Here's video primer (6 minute 47 second) on completing encounter information:
+<p>
+  <a href="https://youtu.be/aqWevnEGwDY" title="YouTube Primer on Encounter Information">
+    <img src=".../assets/Thumbnail_iMedConsentYT.png" alt="YouTube" />
+  </a>
+</p>
+
+
+
+
+
+
 ### Educational service structure changes we made as a direct result of trainee feedback:
 
 >1. **Feedback**: PGY-1 interns had long work hours, too many clinical responsibilities, and no operative experience
@@ -97,15 +120,6 @@ Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com
 
 <hr>
 
-
-### iMed consents
-
-Here's a brief (3 minute 19 second) video primer on avoiding common errors in using iMed for informed consent:
-<p>
-  <a href="https://www.youtube.com/watch?v=c9fAX2qRgK4" title="YouTube Primer on Avoiding iMed Errors">
-    <img src=".../assets/Thumbnail_iMedConsentYT.png" alt="YouTube" />
-  </a>
-</p>
 
 
 
