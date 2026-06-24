@@ -73,6 +73,8 @@ Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, train
 <br>
 <hr>
 
+## Practical information to review on Day 1
+
 ### iMed consents
 
 Here's a brief (3 minute 19 second) video primer on avoiding common errors in using iMed for informed consent:
@@ -87,14 +89,13 @@ Here's a brief (3 minute 19 second) video primer on avoiding common errors in us
 Here's video primer (6 minute 47 second) on completing encounter information:
 <p>
   <a href="https://youtu.be/aqWevnEGwDY" title="YouTube Primer on Encounter Information">
-    <img src=".../assets/Thumbnail_iMedConsentYT.png" alt="YouTube" />
+    <img src="https://nealbarshes-protocols.github.io/assets/Thumbnail_Encounters.png" alt="YouTube" />
   </a>
 </p>
 
 
 
-
-
+<hr>
 
 ### Educational service structure changes we made as a direct result of trainee feedback:
 
@@ -120,11 +121,7 @@ Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com
 
 <hr>
 
-
-
-
-
-### Behavior and attitudes expected of all trainees:
+### Expectations of all trainees:
 
 NEVER: 
 <ul>
@@ -154,8 +151,5 @@ Commit to:
 </ol>>
 
 <hr>
-
-
-<hr>
-So glad you've read through all of this document!  
+So glad you've read through all of this document!  Please take the [intern quiz](https://www.surveymonkey.com/r/JYJTG35) or [senior quiz](https://www.surveymonkey.com/r/P2VSHPS) by the end of your first day on service. 
 
