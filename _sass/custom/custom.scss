@@ -64,7 +64,7 @@ body,
 }
 
 /* Avoid excessive space after the last item */
-.main-content li: last-child {
+.main-content li:last-child {
    margin-bottom: 0;
 }
 
@@ -119,29 +119,7 @@ body,
   background-color: #171717;
 }
 
-/* -----------------------------
-   Search box in sidebar/header
------------------------------- */
 
-.search-input {
-  background-color: #111111;
-  color: #f9fafb;
-  border-color: #333333;
-}
-
-.search-input::placeholder {
-  color: #9ca3af;
-}
-
-.search-label .search-icon {
-  color: #d1d5db;
-}
-
-/* Search results */
-.search-results {
-  background-color: #ffffff;
-  color: #111827;
-}
 
 /* -----------------------------
    Main content headings
@@ -230,7 +208,7 @@ body,
 /* Hovered sidebar page title */
 .side-bar .nav-list .nav-list-link:hover {
   color: #0b2a42; /* dark navy text */
-  background-color: #fff0b8;; /* warm white/stronger yellow highlight */
+  background-color: #fff0b8; /* warm white/stronger yellow highlight */
 }
 
 /* Optional: oxblood instead of navy for active/hover text */
