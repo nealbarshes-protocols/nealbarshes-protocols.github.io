@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ### Roles, duties and expectations for PGY-3 to -7 Senior Trainees: 
 
 <b>Always / every day weekday:</b>
