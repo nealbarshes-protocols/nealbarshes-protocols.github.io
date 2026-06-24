@@ -1,5 +1,5 @@
 ---
-title: _workflow_consults/inpatient
+title: _consults|inpatient
 nav_order: 10
 ---
 
