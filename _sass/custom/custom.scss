@@ -6,7 +6,16 @@ body,
 .main-content,
 .nav-list,
 .search-input {
-  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; 
+}
+
+.main-content p,
+.main-content li,
+.main-content table,
+.main-content td,
+.main-content th,
+.side-bar .nav-lists .nav-list-link {
+   letter-spacing: -0.035em;
 }
 
 .site-title,
@@ -21,8 +30,47 @@ body,
 
 .main-content {
   font-size: 0.94rem;
-  line-height: 1.75;
+  line-height: 1.48;
+   margin-top: 0;
+   margin-bottom: 1.25rem;
 }
+
+
+/* Paragraphs */
+.main-content p {
+   line-height: 1.48;
+   margin-top: 0;
+   margin-bottom: 1.25rem;
+}
+
+/* Ordered and unordered lists */
+.main-content ol,
+.main-content ul {
+   line-height: 1.48;
+   margin-top: 0.5rem;
+   margin-bottom: 1.25rem;
+}
+
+/* Space between list items */
+.main-content li {
+   line-height: 1.48;
+   margin-top: 0;
+   margin-bottom: 0.65rem;
+}
+
+/* Nested list items, a little tighter */
+.main-content li li {
+   margin-bottom: 0.35rem;
+}
+
+/* Avoid excessive space after the last item */
+.main-content li: last-child {
+   margin-bottom: 0;
+}
+
+
+
+
 
 /* -----------------------------
    Black sidebar
