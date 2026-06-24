@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+---
+
+
 ### Roles, duties and expectations of the Night Float Intern: 
 
 Complete post-operative checks (with notes) on all patients who have come out of the operating room after 3pm.
