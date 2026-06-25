@@ -1,6 +1,5 @@
 ---
-title: *orientation
-nav_order: 14
+nav_exclude: true
 ---
 
 <head>
