@@ -1,5 +1,5 @@
 ---
-title: _outpatient encounters
+title: _clinic
 nav_order: 12
 ---
 
