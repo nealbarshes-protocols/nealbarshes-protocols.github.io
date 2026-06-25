@@ -1,5 +1,5 @@
 ---
-title: Our Team
+title: _our team
 nav_order: 15
 ---
 
