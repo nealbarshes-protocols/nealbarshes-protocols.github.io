@@ -21,8 +21,8 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |04 | Brillians code: "ABCDE" review |
 |05 | [Pre-op checklist](http://nealbarshes-protocols.github.io//Protocols_AllPatients/05_PreOpChecklist_AllPatients.md) |
 |06 | [<b>Post-op orders</b>](http://nealbarshes-protocols.github.io/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
-|07 | [<b>Inpatient SOAP note template</b>](http://nealbarshes-protocols.github.io/Protocols_AllPatients/08_InpatientProgressNote_AllPatients) |
-|08 | [Post-op problems: protocols](http://nealbarshes-protocols.github.io/Protocols_AllPatients/08_PostOpProblems_AllPatients.md) |
+|07 | [<b>Inpatient SOAP note template</b>](http://nealbarshes-protocols.github.io/Protocols_AllPatients/08_InpatientProgressNote_AllPatients.md) |
+|08 | [Post-op problems: protocols](http://nealbarshes-protocols.github.io/Protocols_AllPatients/08_PostOpProblems_AllPatients) |
 |09 | Discharge planning |
 |10 | [Patient discharge instructions](http://nealbarshes-protocols.github.io/Protocols_AllPatients/10_DischargeInstructions_AllPatients) |
 |11 | Patient education, post-op |
