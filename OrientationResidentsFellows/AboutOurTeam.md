@@ -68,4 +68,14 @@ Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com
 
 **Change implemented:** In addition to the educational conferences named above, intraoperative teaching, and teaching in the clinic, Drs. Barshes and Zamani will have 30 minute sessions following Monday or Tuesday phone clinic to review the topic in This Week in Score. 
 
+>6. **Feedback**: Low value in senior trainee personally seeing all consults overnight.
 
+**Change implemented:** We've created a list of consults that can be seen by the surgery night float (PGY-1) resident, including many common consult scenarios. These are listed on the [night float responsibilities](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/NightFloat.html) page.
+
+>7. **Feedback**: Group setting for feedback can be intimidating.
+
+**Change implemented:** Trainees will now be offered the options of 1:1 or group setting for end-of-rotation feedback. 
+
+>5. **Feedback**: Some M&Ms should not require a full PowerPoint presentation.
+
+**Change implemented:** Created an [abbreviated M&M slide template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate_ChartCompletion.pptx) for cases that need to be discussed for chart completion. This clearly labels the presentation as NOT for educational review. The full template has been made more concise.
