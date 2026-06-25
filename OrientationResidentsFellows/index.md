@@ -1,5 +1,5 @@
 ---
-title: orientation
+title: *orientation
 nav_order: 14
 ---
 
@@ -16,17 +16,22 @@ nav_order: 14
 </head>
 
 
-# Welcome to the Michael E. DeBakey V.A. Medical Center Vascular Surgery Service! 
+## Welcome to the Michael E. DeBakey V.A. Medical Center Vascular Surgery Service! 
+
+<hr>
 
 # On-boarding to be completed by the end of day 1
 
-## Roles and Expectations
-Please read the [expectations of all residents and fellows](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/AllTrainees.md).
+## Our Team Ethos
+Read about [our team](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/AboutOurTeam.html).
 
-Please read level-specific roles, duties and expectations: 
+## Roles and Expectations
+Review the [expectations of all residents and fellows](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/AllTrainees.md) and your level-specific roles, duties and expectations: 
 1. [Daytime intern](DaytimeInterns.md)
 2. [Senior resident or fellow](SeniorTrainee.md)
 3. [Night float](NightFloat.md)
+
+
 
 ## Weekly Conference Schedule
 
@@ -41,6 +46,8 @@ Thu | 0745-0815 | VA vascular morning report | VA staff, BCM surgery residents, 
 Thu | 1200-1300 | VA vascular didactics | VA staff, BCM surgery residents, students
 Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, trainees, students
 
+
+
 ## iMed Consent Best Practices
 
 Here's a brief (3 minute 19 second) video primer on avoiding common errors in using iMed for informed consent:
@@ -50,6 +57,8 @@ Here's a brief (3 minute 19 second) video primer on avoiding common errors in us
   </a>
 </p>
 
+
+
 ## Completing Encounter Information
 
 Here's video primer (6 minute 47 second) on completing encounter information:
@@ -58,6 +67,8 @@ Here's video primer (6 minute 47 second) on completing encounter information:
     <img src="https://nealbarshes-protocols.github.io/assets/Thumbnail_Encounters.png" alt="YouTube" />
   </a>
 </p>
+
+
 
 ## Parking Hangtag
 
