@@ -43,3 +43,30 @@ All our faculty are dedicated to surgical education. Our staff surgeons has been
 
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:16px; background-color: ##fdffde;">
 "The acquisition of skills requires a regular environment, and adequate opportunity to practice, and <b>rapid and unequivocal feedback about the correctness of thoughts and actions</b>. When these conditions are fullfilled, skill eventually develops, and the intuitive judgments and choices that quickly come to mind will mostly be accurate.” Daniel Kahneman, <i>Thinking Fast and Slow</i></blockquote>
+
+
+<hr>
+
+## Educational service structure changes we made as a direct result of trainee feedback:
+
+>1. **Feedback**: PGY-1 interns had long work hours, too many clinical responsibilities, and no operative experience
+   
+**Change implemented**: As of February 2021 we have transitioned from the “mega-team” model to the “junior attending” model. This structure the clinical decision making done by the staff surgeon and senior trainee taking ownership for the patient (accountability) while minimizing cross-coverage for non-urgent issues during business hours by persons not immediately involved on the patient’s care (“disintermediation").  This structure also provides more individualized teaching opportunities for senior and junior trainees. We encourage interns to go to the operating room with their assigned team. 
+
+>2. **Feedback**: Too few computers and workspaces for the team.
+
+**Change implemented**: As of August 2023, our team has had a workroom with seven cubicles, each with a desktop computers. 
+
+>3. **Feedback**: Parking spots are unavailable when returning from BCM conferences. 
+
+Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/Lists/registration/Requestor_View.aspx?xsdata=MDV8MDF8fDRmYWU2Y2IxM2JmOTQ4MTY4ZjZhMDhkYWZmMGI4ZjhifGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2MzgxMDI3MjIzNDQzNTc3Mzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTkRZM05UUXpNekV6T0RzeE5qYzBOamMxTkRNek1UTTRPekU1T2pBek16SmxZVEEyTFRneU9UZ3ROR0l4TlMwNE5XUmhMV1ZsWVRsaFlqWXdZalV4TWw4NU5qSmpPRFk1WXkxaU5ESXlMVFE1TXpBdFlqYzJNaTAwTURrMll6RXdZV1V4T1dGQWRXNXhMbWRpYkM1emNHRmpaWE09fGRmNmIzMDA0MWEwNzQ2MTk4ZjZhMDhkYWZmMGI4ZjhifDRjMjA0Njk0YWVkZTQ1NTNhNTY2OTFhZjg3ZmI5OGZk&sdata=cHZsc2U3VE5DM3JZZ2ZPVVhYYzB4OW4waTNOYk1zOWdVSi96ZlFPZUlKTT0%3D&ovuser=e95f1b23-abaf-45ee-821d-b7ab251ab3bf%2cNathan.Schaeffer%40va.gov&OR=Teams-HL&CT=1674742794033&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) to access the parking tower when returning from BCM conferences. NOTE: This link will only work on VA computers. 
+
+>4. **Feedback**: Call rooms not consistently available at night.
+
+**Change implemented**: On June 23rd we requested that the general surgery team vacate the call room designated for the on-call vascular surgery senior trainee. 
+
+>5. **Feedback**: More didactics conferences would be helpful.
+
+**Change implemented:** In addition to the educational conferences named above, intraoperative teaching, and teaching in the clinic, Drs. Barshes and Zamani will have 30 minute sessions following Monday or Tuesday phone clinic to review the topic in This Week in Score. 
+
+
