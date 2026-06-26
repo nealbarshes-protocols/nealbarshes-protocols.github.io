@@ -19,6 +19,10 @@ S= |	Situational awareness
 S= |	Synthesis by receiver
 
 
-If a senior surgical trainee stays past 10pm, the on-call staff surgeon should be notified. Handoff using the aforementioned I-PASS acronym should be given to the night float resident. At 6am the following morning, the night float resident should then contact the incoming senior trainee to round on the patients of the senior surgical trainee that stayed late. This senior surgical trainee should come in 10 hours from leaving the hospital (ex. 10am if left at midnight, noon if left at 2am).
+### If a senior surgical trainee stays past 10:30pm: 
+1. The senior trainee notifies the on-call staff surgeon.
+2. Handoff using the aforementioned I-PASS acronym should be given to the night float resident.
+3. At 6am the following morning, the night float resident should then contact the incoming senior trainee to round on the patients of the senior surgical trainee that stayed late.
+4. This senior surgical trainee should come in 10 hours from leaving the hospital (ex. 10am if left at midnight, noon if left at 2am).
 
 Thank you to Drs. Jessica Rea, Zachary Chizmar and Jorge Miranda for helping develop this material.
