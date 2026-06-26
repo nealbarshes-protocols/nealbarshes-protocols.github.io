@@ -1,6 +1,5 @@
 ---
-title: _education
-nav_order: 16
+nav_exclude: true
 ---
 
 ## Roles, duties and expectations for PGY-2 to -7 Trainees: 
