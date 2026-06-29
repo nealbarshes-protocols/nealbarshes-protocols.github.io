@@ -2,21 +2,29 @@
 nav_exclude: true
 ---
 
-### Roles, duties and expectations for Daytime/Inpatient Interns: 
-<ul>  
-<li>Working in a dyad with your paired senior trainee. Make rounds together. Share note and order writing equitably. You should be in the OR when he or she is in the OR, and you should be doing face-to-face or telephone encounters when he or she is assigned to cover a clinic day. You should both see consults together.</li>
-<li>Write inpatient notes using the inpatient template on this website. Update daily events using log entry-type statements: ex. "4/19= worked with physical therapy; surgical dressing removed. 4/20= drain removed; no IV pain medications needed."  </li>  
-<li>Be judicious in the use of lab testing. Follow recommendations in our protocols. If not otherwise specified, chemistries and blood counts every Monday and Thursday for patients not on hemodialysis. If on hemodialysis: chemistries daily, blood counts Monday and Friday.</li>
-<li>Present at morning report, keeping it concise and focused.</li>
-<li>On <i>selected</i> Mondays and Thursdays, in clinic for face-to-face outpatient encounters.</li>
-<li>For initial evaluation of new inpatient or emergency room consults:</li>
-  <ul>
-<li>Level-appropriate vascular surgery consults during daytime hours.</li>
+## PGY-1 focus: perioperative inpatient care
 
-</ul>
-  </ul>
+Your primary focus is **outstanding inpatient care** of patients admitted to your vascular surgery team. 
 
-#### For iMed Consents and LST notes:
+To do this, know all the details of your patient: medical and social history, surgical problems, medications, lab and imaging findings. Round together twice daily with the senior trainee(s) that are part of your team. Discuss the goals for this hospitalization and formulate a problem list to focus your thoughts and actions. 
+
+#### Writing progress notes
+Use the "all patient" inpatient progress ("SOAP") note template to write notes. Update daily events using log entry-type statements: ex. "4/19= worked with physical therapy; surgical dressing removed. 4/20= drain removed; no IV pain medications needed."  
+
+#### Writing orders
+Apply the ["all patient" inpatient orders](https://nealbarshes-protocols.github.io/Protocols_AllPatients/07_PostOpOrders_AllPatients/) and disease process-specific orders when writing orders. Be judicious in the use of lab testing. Follow ["all patient" lab ordering guidance](https://nealbarshes-protocols.github.io/Protocols_AllPatients/07_PostOpOrders_AllPatients/#l--lab-studies-plus-imaging-and-other-testing) -- including NOT ordering labs on every patient every day -- and the disease process-specific orders. When writing orders on medications you are unfamiliar with, use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error. Do NOT discontinue clopidogrel or ticagrelor before reviewing initial indication (esp. recent drug-eluting coronary stents).
+
+
+#### Writing OCL H&Ps at admission
+You should write the admission OCL H&P on patients getting admitted to your vascular surgery team. The on-call senior resident must write a separate consult note.  
+
+#### Presenting at morning report
+See [morning report](https://nealbarshes-protocols.github.io/assets/MorningReport.html) for advice on keeping it concise and focused.
+
+
+## Additional Responsibilities
+
+#### Obtaining iMed Consents and LST notes on pre-op patients:
 <p style="color:green"><b>DO / ALWAYS:</b></p>
 <ol>
   <li>Include any relevant possibles:</li>
@@ -42,27 +50,6 @@ nav_exclude: true
   <li>Use any abbreviations whatsoever.</li>
   </ol>
 
-#### For clinical care:
-<p style="color:green"><b>DO / ALWAYS:</b></p>
-<ol>
-  <li>Use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error.</li>
-</ol>
-
-<p style="color:red"><b>Do NOT:</b></p>
-<ol>
-  <li>Discontinue clopidogrel or ticagrelor before reviewing initial indication (esp. recent drug-eluting coronary stents).</li>
-  </ol>
-<hr>
-
-
-  
-Notes:
-<ul>
-<li>Per hospital policy, ER consults must be seen within 30 mins and have written plans (note or admission orders) within 120 minutes.</li>
-<li>You should work as a team with the on-call senior resident and on-call staff vascular surgeon. Discuss foot infection consults directly with staff surgeon, then discuss with on-call senior resident.</li>
-<li>You should go to the OR to talk if that is where the on-call senior or staff surgeon is.</li>
-<li>You should write OCL History and Physicals for new admissions and consults.</li>
-</ul>
 
 <hr>
   
