@@ -19,3 +19,6 @@ Initial evaluation of new consults after 6pm with the senior trainee: for most v
 NOTE: This refers to patients who got imaging PRIOR to even presenting to the ER. 
 6.	Carotid artery or vertebral artery disease identified during the workup of lightheadedness or dizziness. This does NOT include any consult for whom anyone has a clinical suspicion of TIA or stroke. 
 7.	Expected, stable transfers from an outside hospital who have already been reviewed and discussed among the accepting surgeon and the daytime team
+
+### What NOT to do:
+1. Please do NOT enter lab orders for every inpatient every day. Leave the ordering of labs to the daytime intern. 
