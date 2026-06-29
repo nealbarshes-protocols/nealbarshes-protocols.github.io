@@ -25,6 +25,8 @@ This workflow applies to patients who are **currently admitted** to another inpa
 ## OUTPATIENT consults
 This pertains to E.R. not yet admitted / without an inpatient location _or_ to outpatient consults seen in the hospital building (ex. ECL Wound Care clinic).
 
+Per hospital policy, ER consults must be **seen within 30 mins** and have **written plans** (note or admission orders) within **120 minutes**.
+
 1. Ensure the consulting clinician has entered a CPRS consult for our team.   
 2. Start a stopwatch to note the time.   
 2. Evaluate the patient.   
