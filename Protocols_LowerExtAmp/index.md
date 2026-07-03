@@ -1,6 +1,7 @@
 ---
 title: leg amputation
-nav_order: 4
+parent: PROBLEM-SPECIFIC MANAGEMENT
+nav_order: 3
 ---
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
