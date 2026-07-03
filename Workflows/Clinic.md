@@ -1,5 +1,5 @@
 ---
-title: _clinic
+title: clinic
 parent: WORKFLOWS
 nav_order: 5
 ---
