@@ -1,6 +1,7 @@
 ---
-title: _consults
-nav_order: 10
+title: consults
+parent: WORKFLOWS
+nav_order: 3
 ---
 
 ## INPATIENT consults
