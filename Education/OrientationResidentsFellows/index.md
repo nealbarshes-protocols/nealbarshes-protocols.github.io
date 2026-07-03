@@ -1,5 +1,7 @@
 ---
-nav_exclude: true
+title: Orientation
+parent: EDUCATION
+nav_order: 1
 ---
 
 <head>
