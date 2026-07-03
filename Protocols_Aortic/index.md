@@ -1,6 +1,7 @@
 ---
-title: aortic
-nav_order: 6
+title: "5. aortic"
+parent: PROBLEM-SPECIFIC MANAGEMENT
+nav_order: 5
 ---
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
