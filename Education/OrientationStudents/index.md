@@ -1,7 +1,7 @@
 ---
 title: medical students
 parent: EDUCATION
-nav_order: 4
+nav_order: 3
 ---
 ### Welcome to your rotation on the Vascular Surgery service at the Michael E. DeBakey Veterans Affairs Medical Center (MEDVAMC)!
 
