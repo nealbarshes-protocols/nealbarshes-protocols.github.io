@@ -1,6 +1,7 @@
 ---
 title: lower extrem revasc.
-nav_order: 3
+parent: PROBLEM-SPECIFIC MANAGEMENT
+nav_order: 2
 ---
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
