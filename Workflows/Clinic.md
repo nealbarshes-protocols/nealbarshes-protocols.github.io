@@ -1,6 +1,7 @@
 ---
 title: _clinic
-nav_order: 12
+parent: WORKFLOWS
+nav_order: 5
 ---
 
 ## In-person (Face-to-Face) Clinic

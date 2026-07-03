@@ -1,6 +1,8 @@
 ---
-title: ALL PATIENTS
-nav_order: 2
+title: "*1. all patient default"
+layout: default
+parent: PROBLEM-SPECIFIC MANAGEMENT
+nav_order: 1
 ---
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YPLVGC5FDP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
