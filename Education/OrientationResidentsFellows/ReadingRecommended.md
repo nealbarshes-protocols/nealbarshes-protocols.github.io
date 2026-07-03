@@ -1,6 +1,7 @@
 ---
-title: _education
-nav_order: 18
+title: Recommended Readings
+parent: EDUCATION
+nav_order: 2
 ---
 
 ### M&M Conference Presentations
