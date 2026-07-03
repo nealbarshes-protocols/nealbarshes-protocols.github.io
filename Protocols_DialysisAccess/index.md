@@ -1,6 +1,7 @@
 ---
-title: dialysis access
-nav_order: 7
+title: "6. dialysis access"
+parent: PROBLEM-SPECIFIC MANAGEMENT
+nav_order: 6
 ---
 
 
