@@ -349,3 +349,17 @@ body { border: 5px solid red; }
   width: max-content;
   min-width: 100%;
 }
+
+
+/* -----------------------------
+   "Nuke from orbit" 
+    Table wrap override
+------------------------------ */
+
+* td,
+* th {
+  white-space: normal !important;
+  word-break: break-word !important;
+  overflow-wrap: break-word !important;
+}
+
