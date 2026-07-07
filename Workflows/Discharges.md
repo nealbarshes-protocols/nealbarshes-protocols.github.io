@@ -15,10 +15,10 @@ Ask if the patient has planned transportation to get there.
 
 | action |
 | :--- |
-| Review the dose and duration of new medications with the senior resident/fellow. Determine which (if any) should be continued on an outpatient basis. This is especially important for antiplatelets, anticoagulants, and pain medications! Bowel regimen and DVT prophylaxis meds are often not continued.|
-| Review discharge medications with Clinical Pharmacist via Teams or ext 224180.|
-| Order outpatient medications that are new as of this hospitalization.|
-| Refill existing medications that the patient states he needs.|
+| 1. Review the dose and duration of new medications with the senior resident/fellow. Determine which (if any) should be continued on an outpatient basis. This is especially important for antiplatelets, anticoagulants, and pain medications! Bowel regimen and DVT prophylaxis meds are often not continued.|
+| 2. Review discharge medications with Clinical Pharmacist via Teams or ext 224180.|
+| 3. Order outpatient medications that are new as of this hospitalization.|
+| 4. Refill existing medications that the patient states he needs.|
 
 NOTE: Do NOT draft or generate the discharge instructions until AFTER the discharge medication orders are entered. If you do, the discharge instructions will be inaccurate and will cause confusion. 
 
@@ -35,10 +35,10 @@ For patients actively followed by the vascular medicine or inpatient medicine te
 
 | action |
 | :--- |
-| Instruct patient to contact PCP’s office for an appointment within two weeks.|
-| Include a statement in the most recent progress note that explains the need for PCP follow-up.|
-| Add the PCP and Care Manager (found by clicking on CPRS tile with PCP name) as cosigners to this last progress note |
-| Order specialty follow-up as needed (examples: ID, cardiology, hematology).|
+| 1. Instruct patient to contact PCP’s office for an appointment within two weeks.|
+| 2. Include a statement in the most recent progress note that explains the need for PCP follow-up.|
+| 3. Add the PCP and Care Manager (found by clicking on CPRS tile with PCP name) as cosigners to this last progress note |
+| 4. Order specialty follow-up as needed (examples: ID, cardiology, hematology).|
 
 
 
