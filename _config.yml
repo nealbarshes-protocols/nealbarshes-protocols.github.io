@@ -15,7 +15,7 @@ search:
 nav_enabled: true
 heading_anchors: true
 
-footer_content: "©Neal Barshes on behalf of the DeBakey Vascular Team"
+footer_content: "Neal Ryan Barshes on behalf of the DeBakey/Houston Vascular Team"
 
 plugins:
   - jekyll-remote-theme
