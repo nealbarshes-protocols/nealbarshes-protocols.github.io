@@ -4,7 +4,10 @@ parent: WORKFLOWS
 nav_order: 4
 ---
 
-## After admission:
+This page provides guidance on routine discharges from inpatient hospitalization.  
+
+<hr>
+# Soon after admission:
 Confirm the patient has a discharge location with adequate physical and social support.
 Ask if the patient has planned transportation to get there.
 
@@ -25,9 +28,9 @@ NOTE: Do NOT draft or generate the discharge instructions until AFTER the discha
 
 ### Return to Clinic (RTC) Orders
 Default vascular surgery follow-up interval is 2 weeks. 
-Written by: Orders tab--> RTC Main Menu--> OCL Clinics --> Vascular
-    “HOU VAS SURGERY POST-OP 1653A” if surgical incision or >8Fr access.
-    “HOU PHONE VASCULAR SURG” for everyone else.
+Written by: Orders tab--> RTC Main Menu--> OCL Clinics --> Vascular  
+    “HOU VAS SURGERY POST-OP 1653A” if surgical incision or >8Fr access.  
+    “HOU PHONE VASCULAR SURG” for everyone else.  
 Do NOT overbook unless instructed to by an attending surgeon. 
 
 ### Additional clinic follow-up 
@@ -44,8 +47,8 @@ For patients actively followed by the vascular medicine or inpatient medicine te
 
 <hr>
 # DAY OF DISCHARGE
-Notes tab --> New Note --> “DISCHARGE INSTRUCTIONS TO PATIENT”
-Include generic and procedure-specific instructions that are on the GitHub site.
+Notes tab --> New Note --> “DISCHARGE INSTRUCTIONS TO PATIENT”  
+Include generic and procedure-specific instructions that are on the GitHub site.  
 
 
 ### Generate the discharge instructions.
@@ -59,9 +62,9 @@ Confirm plans for discharge with senior vascular trainee or attending surgeon.
 
 ### Write Discharge Order.
 Goal is to enter this before 11am.
-Orders --> Surgery Orders --> Surgery Orders -->
-    “Discharge Patient with Planned Readmission”  (if planned within 30d) vs. 
-    “Discharge patient” (for everyone else)
+Orders --> Surgery Orders --> Surgery Orders -->  
+    “Discharge Patient with Planned Readmission”  (if planned within 30d) vs.  
+    “Discharge patient” (for everyone else)  
 
 
 ### Write and sign the discharge summary.
