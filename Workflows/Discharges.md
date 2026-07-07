@@ -12,7 +12,8 @@ Ask if the patient has planned transportation to get there.
 # Day BEFORE Discharge
 
 ### Medication reconciliation process
-|no. | done| item |
+
+|no. | done? | action |
 | --- | --- | --- |
 |1.|_| Review the dose and duration of new medications with the senior resident/fellow. Determine which (if any) should be continued on an outpatient basis. This is especially important for antiplatelets, anticoagulants, and pain medications! Bowel regimen and DVT prophylaxis meds are often not continued.|
 |2.|_| Review discharge medications with Clinical Pharmacist via Teams or ext 224180.|
@@ -31,7 +32,8 @@ Do NOT overbook unless instructed to by an attending surgeon.
 
 ### Additional clinic follow-up 
 For patients actively followed by the vascular medicine or inpatient medicine teams. 
-|no. | done| item |
+
+|no. | done? | action |
 | --- | --- | --- |
 |1.|_| Instruct patient to contact PCP’s office for an appointment within two weeks.|
 |2.|_| Include a statement in the most recent progress note that explains the need for PCP follow-up.|
@@ -63,4 +65,4 @@ Orders --> Surgery Orders --> Surgery Orders -->
 
 
 ### Write and sign the discharge summary.
-<hr>
+
