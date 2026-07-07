@@ -275,6 +275,19 @@ body,
   margin-bottom: 0;
 }
 
+/* -----------------------------
+   Establishes wrap in tables
+------------------------------ */
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+td, th {
+  white-space: normal !important;
+  word-wrap: break-word;
+}
 
 
 /* -----------------------------
