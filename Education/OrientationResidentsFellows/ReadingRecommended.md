@@ -12,16 +12,16 @@ Please prepare for M&M conference presentations using this [full M&M slide  temp
 Surgery residents, read the Cameron's Current Surgical Therapy -- especially focusing on the list of chapters we feel are particularly high-yield:
 
 #### Previously-challenging topics from ABSITE (as worded in the score reports):
-x16: Arteriovenous Graft/Fistula
-x12: Pseudoaneurysm – Repair
-x11: Vascular Access for Dialysis
-x9:  Sclerotherapy - Peripheral Vein
-x8:  Venous Thromboembolism
-x8:  Acute Limb Ischemia
-x8:  Vascular Exposure Principles
-x7:  Vascular - Arterial Disease
-x6:  Venous Access Devices – Insertion
-x6:  Venous Insufficiency/Varicose Veins – Operation
+x16: Arteriovenous Graft/Fistula  
+x12: Pseudoaneurysm – Repair  
+x11: Vascular Access for Dialysis  
+x9:  Sclerotherapy - Peripheral Vein  
+x8:  Venous Thromboembolism  
+x8:  Acute Limb Ischemia  
+x8:  Vascular Exposure Principles  
+x7:  Vascular - Arterial Disease  
+x6:  Venous Access Devices – Insertion  
+x6:  Venous Insufficiency/Varicose Veins – Operation  
 
 #### PGY-3 readings from Cameron, Current Surgical Therapy:
  1. Pseudoaneurysms and Arteriovenous Fistulas
