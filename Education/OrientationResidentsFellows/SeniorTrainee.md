@@ -29,7 +29,8 @@ nav_exclude: true
 3. In addition to calling regarding consults, notify the on-call staff surgeon about any significant clinical changes that occur on inpatients.
 4. Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day. Follow our [fatigue protocol](https://nealbarshes-protocols.github.io/ContingencyPlans/Fatigue.md) for further instructions. 
 
-
+### M&M Conference Presentations
+Please prepare for M&M conference presentations using this [full M&M slide  template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate.pptx) or this [brief M&M slide template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate_ChartCompletion.pptx). 
 
 <hr>
 <br>
