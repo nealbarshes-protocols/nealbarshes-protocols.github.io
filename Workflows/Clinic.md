@@ -21,3 +21,6 @@ Prior to rooming, one of the 5C surgery clinic nurses will give new patients and
 1. One person absent: intern vs. staff surgeon will take open room.
 2. Two people absent: intern AND staff surgeon will take open rooms. 
 
+
+## Patient Contact Log
+[Calls to 5C or via messaging](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/IQBZe9NmgV4JRa7Cq2TGwDxwAZMDErafn5Ud4KHo7SPbmv0?e=RRxzDA).
