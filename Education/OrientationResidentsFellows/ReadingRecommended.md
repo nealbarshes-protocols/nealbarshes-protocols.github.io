@@ -4,9 +4,6 @@ parent: EDUCATION
 nav_order: 2
 ---
 
-### M&M Conference Presentations
-Please prepare for M&M conference presentations using this [full M&M slide  template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate.pptx) or this [brief M&M slide template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate_ChartCompletion.pptx). 
-
 
 
 Surgery residents, read the Cameron's Current Surgical Therapy -- especially focusing on the list of chapters we feel are particularly high-yield:
