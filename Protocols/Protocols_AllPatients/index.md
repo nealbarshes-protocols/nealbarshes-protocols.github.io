@@ -21,7 +21,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |03 | [Patient education, pre-op: anatomy drawing template](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/02_PatientInfo_AllPatients_VascularAnatomy.pdf) |
 |04 | Brillians code: Pre-op review |
 |04 | Brillians code: "ABCDE" review |
-|05 | [Pre-op checklist](http://nealbarshes-protocols.github.io/Protocols_AllPatients/05_PreOpChecklist_AllPatients.md) |
+|05 | [Pre-op checklist](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/05_PreOpChecklist_AllPatients.md) |
 |06 | [<b>Post-op orders</b>](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/07_PostOpOrders_AllPatients) |
 |07 | [<b>Inpatient SOAP note template</b>](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/08_InpatientProgressNote_AllPatients.md) |
 |08 | [Post-op problems: protocols](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/08_PostOpProblems_AllPatients) |
