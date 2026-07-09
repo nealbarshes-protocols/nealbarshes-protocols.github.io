@@ -4,7 +4,7 @@ parent: WORKFLOWS
 nav_order: 4
 ---
 
-This page provides guidance on routine discharges from inpatient hospitalization.  
+This page provides guidance on routine discharges from inpatient hospitalization. There is also a [one-sheet discharge checklist PDF version](http://nealbarshes-protocols.io/assets/VascularTeam_DischargeProtocol_Zamani.pdf).
 
 <hr>
 # Soon after admission:
