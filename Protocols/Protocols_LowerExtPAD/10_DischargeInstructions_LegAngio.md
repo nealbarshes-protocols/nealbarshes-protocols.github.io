@@ -1,8 +1,3 @@
----
-nav_exclude: true
----
-
-
 PHYSICAL ACTIVITY:
 =================
 No heavy lifting for 48 hours (two days). Leave dressing in place for 48 hours (two days); once removed, may shower. No driving within 48 hours (two days) of either surgery or of using narcotic (prescription) pain medications.
