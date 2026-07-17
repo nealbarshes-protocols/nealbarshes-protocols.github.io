@@ -34,5 +34,3 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |11 | [Patient education, post-op: skin graft](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_STSG.pdf) |
 |12 | Clinic follow-up |
 
-
-Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md
