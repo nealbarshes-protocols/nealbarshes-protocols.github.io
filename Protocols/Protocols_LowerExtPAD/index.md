@@ -26,10 +26,13 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |07 | Post-op problems: protocols |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
-|10 | [Patient discharge instructions: angiogram/intervention](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md) |
+|10 | [Patient discharge instructions: angiogram +/- intervention](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md) |
 |10 | [Patient discharge instructions: leg bypass](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegBypass.md) |
 |10 | [Patient discharge instructions: wound VAC](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_WoundVAC.md) |
 |11 | [Patient education, post-op: ulcer or incision](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_UlcerIncision.pdf) |
 |11 | [Patient education, post-op: wound VAC](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_VAC.pdf)|
 |11 | [Patient education, post-op: skin graft](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_STSG.pdf) |
 |12 | Clinic follow-up |
+
+
+Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md
