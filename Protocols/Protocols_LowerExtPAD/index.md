@@ -15,20 +15,21 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions, pre-op |
 |03 | [Patient education, post-op: "Guard Your Feet" brochure](https://nealbarshes.github.io/brochures/01%20Guard%20your%20Feet%20%5BENGLISH%5D.pdf) |
-|03 | [Patient education, pre-op: anatomy drawing template](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/02_PatientInfo_AllPatients_VascularAnatomy.pdf) |
-|03 | [Patient education: claudication](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/03_PtInfo_ClaudicationBrochureSharath.pdf) |
-|03 | [Patient education: leg bypass pre-op](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/03_PtInfo_LegBypassPreOp.pdf) |
+|03 | [Patient education, pre-op: anatomy drawing template](https://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/02_PatientInfo_AllPatients_VascularAnatomy.pdf) |
+|03 | [Patient education: claudication](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/03_PtInfo_ClaudicationBrochureSharath.pdf) |
+|03 | [Patient education: leg bypass pre-op](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/03_PtInfo_LegBypassPreOp.pdf) |
 |04 | [Brillians code: limb salvage chart review](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/04_Brillians_LimbSalvage.md)  |
-|05 | [Pre-op checklist, additional items: angiogram](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/05_PreOpChecklist_Angio.md) |
-|05 | [Pre-op checklist, additional items: leg bypass](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/05_PreOpChecklist_LegBypass.md) |
+|05 | [Pre-op checklist, additional items: angiogram](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/05_PreOpChecklist_Angio.md) |
+|05 | [Pre-op checklist, additional items: leg bypass](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/05_PreOpChecklist_LegBypass.md) |
 |06 | [<b>Post-op orders</b>](https://nealbarshes.github.io/PAD/) |
+|06 | [Post-op orders: TR band](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/06_PostOpOrders_Angio_TRBand.md) |
 |07 | Post-op problems: protocols |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
-|10 | [Patient discharge instructions: angiogram/intervention](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md) |
-|10 | [Patient discharge instructions: leg bypass](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegBypass.md) |
-|10 | [Patient discharge instructions: wound VAC](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_WoundVAC.md) |
-|11 | [Patient education, post-op: ulcer or incision](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_UlcerIncision.pdf) |
-|11 | [Patient education, post-op: wound VAC](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_VAC.pdf)|
-|11 | [Patient education, post-op: skin graft](http://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_STSG.pdf) |
+|10 | [Patient discharge instructions: angiogram/intervention](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegAngio.md) |
+|10 | [Patient discharge instructions: leg bypass](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_LegBypass.md) |
+|10 | [Patient discharge instructions: wound VAC](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/10_DischargeInstructions_WoundVAC.md) |
+|11 | [Patient education, post-op: ulcer or incision](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_UlcerIncision.pdf) |
+|11 | [Patient education, post-op: wound VAC](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_VAC.pdf)|
+|11 | [Patient education, post-op: skin graft](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtPAD/11_PtInfo_WoundCare_STSG.pdf) |
 |12 | Clinic follow-up |
