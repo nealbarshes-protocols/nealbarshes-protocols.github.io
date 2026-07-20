@@ -7,15 +7,15 @@ nav_exclude: true
 ### Several days before:  
 1. Acting service chief copies updated team roster and call schedule to shared BCM OneDrive folder.  
 2. Acting service chief prints and hands out hard copies of team roster, call schedule, and this instruction file.  
-3. Acting service chief creates Zoom meetings for daily huddles and shared situational awareness.  
-4. All staff surgeons fill gas tanks, have on-call bag, and apps (Houston TransSTAR, Google Maps +- Waze).   
+3. Acting service chief schedules MS Teams meetings for daily huddles / situational awareness.
+4. Acting service chief sends initial team email for back-up communication modality (in case SMS, voice nonfunctional).
+5. All team members fill gas tanks, have on-call bags, and transportation apps (Houston TransSTAR, Google Maps +- Waze).
+6. Plan for possibilty of intern in-house overnight call by scheduling day off prior to anticipated storm arrival days.
 
+### If-Then Decisions:
 
-### "Ride out" staff surgeon (person on-call for the day/night prior to the storm's anticipated arrival) for any of the following conditions occurring BEFORE the storm (not in response to the storm):  
-1. IAH or HOU airport closure announced in anticipation of the storm.  
-2. MEDVAMC campus closure announced in anticipation of the storm.  
-(3. Rotating BCM medical students excused from the rotation in anticipation of the storm.)  
-
-### AFTER storm has passed:  
-1. Vascular surgeon on-call (if different from "ride out" staff surgeon) should GO TO the MEDVAMC campus to verify route is available. 
-2. Hand-off from "ride out" staff surgeon to on-call vascular surgeon.  
+| If ... | then ...|
+| --- | --- |
+|MEDVAMC campus closure announcement | weekend-type team schedule: only on-call trainees come in to hospital, with rest of team on MS Teams meeting |
+|IAH or HOU airport closure | "ride out" intern and staff surgeon |
+|SMS, voice, email communications all nonfunctional | incoming on-call intern, senior and staff surgeon come to the hospital via safe route |
