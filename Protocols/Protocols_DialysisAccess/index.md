@@ -1,6 +1,6 @@
 ---
 title: "6. dialysis access"
-parent: PROBLEM-SPECIFIC MANAGEMENT
+parent: MANAGEMENT
 nav_order: 6
 ---
 
