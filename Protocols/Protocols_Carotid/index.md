@@ -15,14 +15,14 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 | --- | --- |
 |01 | History/ROS, additional info to solicit |
 |02 | Patient instructions, pre-op |
-|03 | [Patient education, pre-op: cerebrovascular anatomy memo](https://nealbarshes-protocols.github.io/Protocols_Carotid/03_PtInfo_VascularAnatomy_CarotidArtery.pdf) |
-|04 | [Brillians code: carotid w/ risk calculators](https://nealbarshes-protocols.github.io/Protocols_Carotid/04_BrilliansCode_Carotid.md)  |
-|05 | [Pre-op checklist, additional for CEA-TCAR](https://nealbarshes-protocols.github.io/Protocols_Carotid/05_PreOpChecklist_CEA-TCAR) |
-|05 | [Pre-op checklist, additional for BaroStim](https://nealbarshes-protocols.github.io/Protocols_Carotid/05_PreOpChecklist_Barostim) |
-|06 | [<b>Post-op orders: CEA-TCAR</b>](https://nealbarshes-protocols.github.io/Protocols_Carotid/06_PostOpOrders_Carotid) |
-|07 | [Post-op problems: protocols](https://nealbarshes-protocols.github.io/Protocols_Carotid/09_PostOpProblems_Carotid) |
+|03 | [Patient education, pre-op: cerebrovascular anatomy memo](https://nealbarshes-protocols.github.io/Protocols/Protocols_Carotid/03_PtInfo_VascularAnatomy_CarotidArtery.pdf) |
+|04 | [Brillians code: carotid w/ risk calculators](https://nealbarshes-protocols.github.io/Protocols/Protocols_Carotid/04_BrilliansCode_Carotid.md)  |
+|05 | [Pre-op checklist, additional for CEA-TCAR](https://nealbarshes-protocols.github.io/Protocols/Protocols_Carotid/05_PreOpChecklist_CEA-TCAR) |
+|05 | [Pre-op checklist, additional for BaroStim](https://nealbarshes-protocols.github.io/Protocols/Protocols_Carotid/05_PreOpChecklist_Barostim) |
+|06 | [<b>Post-op orders: CEA-TCAR</b>](https://nealbarshes-protocols.github.io/Protocols/Protocols_Carotid/06_PostOpOrders_Carotid) |
+|07 | [Post-op problems: protocols](https://nealbarshes-protocols.github.io/Protocols/Protocols_Carotid/09_PostOpProblems_Carotid) |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
-|10 | [Patient discharge instructions](https://nealbarshes-protocols.github.io/Protocols_Carotid/10_DischargeInstructions_Carotid.md) |
+|10 | [Patient discharge instructions](https://nealbarshes-protocols.github.io/Protocols/Protocols_Carotid/10_DischargeInstructions_Carotid.md) |
 |11 | Patient education, post-op |
 |12 | Clinic follow-up |
