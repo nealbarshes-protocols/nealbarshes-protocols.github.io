@@ -1,6 +1,6 @@
 ---
 title: "4. carotid"
-parent: PROBLEM-SPECIFIC MANAGEMENT
+parent: MANAGEMENT
 nav_order: 4
 ---
 
