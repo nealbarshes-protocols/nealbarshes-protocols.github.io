@@ -17,5 +17,5 @@ nav_exclude: true
 | If ... | then ...|
 | --- | --- |
 |MEDVAMC campus closure announcement | weekend-type team schedule: only on-call trainees come in to hospital, with rest of team on MS Teams meeting |
-|IAH or HOU airport closure | "ride out" intern and staff surgeon |
+|IAH or HOU airport closure | "ride out" intern and staff surgeon come to hospital, prepared to stay 24+ hours |
 |SMS, voice, email communications all nonfunctional | incoming on-call intern, senior and staff surgeon come to the hospital via safe route |
