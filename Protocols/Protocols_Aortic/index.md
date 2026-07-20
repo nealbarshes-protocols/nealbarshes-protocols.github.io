@@ -1,6 +1,6 @@
 ---
 title: "5. aortic"
-parent: PROBLEM-SPECIFIC MANAGEMENT
+parent: MANAGEMENT
 nav_order: 5
 ---
 
