@@ -1,6 +1,6 @@
 ---
 title: "7. venous"
-parent: PROBLEM-SPECIFIC MANAGEMENT
+parent: MANAGEMENT
 nav_order: 7
 ---
 
