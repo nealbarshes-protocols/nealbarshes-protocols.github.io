@@ -1,6 +1,6 @@
 ---
 title: "2. lower extrem. revasc."
-parent: PROBLEM-SPECIFIC MANAGEMENT
+parent: MANAGEMENT
 nav_order: 2
 ---
 
