@@ -14,16 +14,16 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |num| Component |
 | --- | --- |
 |01 | History/ROS, additional info to solicit |
-|02 | [Patient instructions, pre-op: flyer for no blood draws](https://nealbarshes-protocols.github.io/Protocols_DialysisAccess/03_PatientInstructions_NoArmBloodDraws.pdf) |
+|02 | [Patient instructions, pre-op: flyer for no blood draws](https://nealbarshes-protocols.github.io/Protocols/Protocols_DialysisAccess/03_PatientInstructions_NoArmBloodDraws.pdf) |
 |03 | Patient education, pre-op |
 |04 | Brillians code  |
-|05 | [Pre-op: iMed consent](https://nealbarshes-protocols.github.io/Protocols_DialysisAccess/05_DialysisAccess_PreOp_iMed.md) |
+|05 | [Pre-op: iMed consent](https://nealbarshes-protocols.github.io/Protocols/Protocols_DialysisAccess/05_DialysisAccess_PreOp_iMed.md) |
 |06 | <i>Post-op orders: n/a (typically outpatient surgery only)</i> |
 |07 | Post-op problems: protocols |
 |08 | <i>Inpatient SOAP note template: n/a (typically outpatient surgery only)</i> |
 |09 | <i>Discharge planning: n/a (typically outpatient surgery only) </i> |
-|10 | [Patient discharge instructions: AVF or AVG](https://nealbarshes-protocols.github.io/Protocols_DialysisAccess/10_DischargeInstructions_AVFAVG.md) |
-|10 | [Patient discharge instructions: peritoneal dialysis catheter](https://nealbarshes-protocols.github.io/Protocols_DialysisAccess/10_DischargeInstructions_PDcatheter.md) |
-|11 | [Patient education, post-op, LEFT arm](https://nealbarshes-protocols.github.io/Protocols_DialysisAccess/11_PostOpPtInfo_AVF-AVG_LEFTarm.pdf) |
-|11 | [Patient education, post-op, RIGHT arm](https://nealbarshes-protocols.github.io/Protocols_DialysisAccess/11_PostOpPtInfo_AVF-AVG_RIGHTarm.pdf) |
-|12 | [Clinic follow-up: estimating volume-flow with SonoSite](https://nealbarshes-protocols.github.io/Protocols_DialysisAccess/12_Clinic_VolumeFlowSonosite.md) |
+|10 | [Patient discharge instructions: AVF or AVG](https://nealbarshes-protocols.github.io/Protocols/Protocols_DialysisAccess/10_DischargeInstructions_AVFAVG.md) |
+|10 | [Patient discharge instructions: peritoneal dialysis catheter](https://nealbarshes-protocols.github.io/Protocols/Protocols_DialysisAccess/10_DischargeInstructions_PDcatheter.md) |
+|11 | [Patient education, post-op, LEFT arm](https://nealbarshes-protocols.github.io/Protocols/Protocols_DialysisAccess/11_PostOpPtInfo_AVF-AVG_LEFTarm.pdf) |
+|11 | [Patient education, post-op, RIGHT arm](https://nealbarshes-protocols.github.io/Protocols/Protocols_DialysisAccess/11_PostOpPtInfo_AVF-AVG_RIGHTarm.pdf) |
+|12 | [Clinic follow-up: estimating volume-flow with SonoSite](https://nealbarshes-protocols.github.io/Protocols/Protocols_DialysisAccess/12_Clinic_VolumeFlowSonosite.md) |
