@@ -1,7 +1,7 @@
 ---
 title: "*1. all patient default"
 layout: default
-parent: PROBLEM-SPECIFIC MANAGEMENT
+parent: MANAGEMENT
 nav_order: 1
 ---
 
