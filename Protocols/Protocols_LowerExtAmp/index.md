@@ -1,6 +1,6 @@
 ---
 title: "3. leg amputation"
-parent: PROBLEM-SPECIFIC MANAGEMENT
+parent: MANAGEMENT
 nav_order: 3
 ---
 
