@@ -357,3 +357,13 @@ th {
   overflow-wrap: break-word !important;
 }
 
+/* Full-width desktop shell */
+@media (min-width: 66.5rem) {
+  .side-bar {
+    left: 0;
+  }
+
+  .main {
+    margin-left: $nav-width;
+  }
+}
