@@ -357,13 +357,15 @@ th {
   overflow-wrap: break-word !important;
 }
 
-/* Full-width desktop shell */
+/* Keep the visible sidebar flush left on wide screens */
 @media (min-width: 66.5rem) {
   .side-bar {
-    left: 0;
+    width: $nav-width !important;
+    min-width: $nav-width !important;
+    align-items: stretch;
   }
 
-  .main {
-    margin-left: $nav-width;
+  .side-bar + .main {
+    margin-left: $nav-width !important;
   }
 }
