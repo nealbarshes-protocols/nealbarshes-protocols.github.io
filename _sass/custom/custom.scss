@@ -357,15 +357,22 @@ th {
   overflow-wrap: break-word !important;
 }
 
-/* Keep the visible sidebar flush left on wide screens */
+/* Wide, responsive, left-anchored sidebar */
 @media (min-width: 66.5rem) {
   .side-bar {
-    width: $nav-width !important;
-    min-width: $nav-width !important;
+    width: clamp(18rem, 20vw, 23rem) !important;
+    min-width: clamp(18rem, 20vw, 23rem) !important;
     align-items: stretch;
   }
 
   .side-bar + .main {
-    margin-left: $nav-width !important;
+    margin-left: clamp(18rem, 20vw, 23rem) !important;
+  }
+
+  .side-bar .site-header,
+  .side-bar .site-nav,
+  .side-bar .nav-list {
+    width: 100%;
+    max-width: none;
   }
 }
