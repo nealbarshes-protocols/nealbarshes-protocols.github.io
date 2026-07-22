@@ -8,7 +8,7 @@ nav_order: 5
 
 This pertains to in-person clinics occuring on Monday mornings and Thursday morning and afternoon. 
 
-One or more days before clinic, one of the 5C surgery clinic nurses will populate the [clinic grid ("swim lanes")](httpsw://nealbarshes-protocols/assets/VascularTeam_Clinic_SwimLanes.docx). 
+One or more days before clinic, one of the 5C surgery clinic nurses will populate the [clinic grid ("swim lanes")](https://nealbarshes-protocols/assets/VascularTeam_Clinic_SwimLanes.docx). 
 
 Prior to rooming, one of the 5C surgery clinic nurses will give new patients and pre-op patients a [History/ROS (a.k.a. "intake" form)](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf).
 
