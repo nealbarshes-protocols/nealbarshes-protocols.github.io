@@ -10,11 +10,11 @@ This pertains to in-person clinics occuring on Monday mornings and Thursday morn
 
 One or more days before clinic, one of the 5C surgery clinic nurses will populate the [clinic grid ("swim lanes")](httpsw://nealbarshes-protocols/assets/VascularTeam_Clinic_SwimLanes.docx). 
 
-Prior to rooming, one of the 5C surgery clinic nurses will give new patients and pre-op patients a [History/ROS (a.k.a. "intake" form)](http://nealbarshes-protocols.github.io/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf).
+Prior to rooming, one of the 5C surgery clinic nurses will give new patients and pre-op patients a [History/ROS (a.k.a. "intake" form)](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf).
 
 #### During your evaluation: 
-1. For **all** clinic patients: use the  [<b>clinic note template</b>](http://nealbarshes-protocols.github.io/Protocols_AllPatients/01_ClinicNote.md). This will automate the collection of many important data from the chart, saving you a lot of time.
-2. For pre-op patients: complete an OCL H&P. Translate answers from [History/ROS (a.k.a. "intake" form)](http://nealbarshes-protocols.github.io/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf) into CPRS using the [ROS "answer key"](http:///nealbarshes-protocols.github.io/Protocols_AllPatients/01_HistoryROS_CPRSpaste_AllPatients.md) as an addendum on the OCL H&P.
+1. For **all** clinic patients: use the  [<b>clinic note template</b>](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/01_ClinicNote.md). This will automate the collection of many important data from the chart, saving you a lot of time.
+2. For pre-op patients: complete an OCL H&P. Translate answers from [History/ROS (a.k.a. "intake" form)](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf) into CPRS using the [ROS "answer key"](http:///nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/01_HistoryROS_CPRSpaste_AllPatients.md) as an addendum on the OCL H&P.
 3. For most pre-op and initial patients (except dialysis access, veins): recommend a vascular medicine walk-in appointment to optimize management of cardiovascular risk factors, diabetes and other medical conditions. If the patient is interested, enter a consult (Orders/Consults/Medicine/Vascular Medicine) and tell the patient to check back in at the 5C front at 1pm. 
 
 #### In the event of vacation leave or other absences from in-person clinic:
