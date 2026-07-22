@@ -28,20 +28,4 @@ This website is a directory for our team's clinical protocols and other resource
 <br>
 
 
-Here you can find our orientation materials for [general surgery residents, vascular residents, and vascular fellows](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/), and for [medical students](https://nealbarshes-protocols.github.io/OrientationStudents/). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
