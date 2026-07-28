@@ -7,7 +7,7 @@ Our vascular surgery rotation began as part of the Baylor College of Medicine pe
 
 We are proud to serve a **diverse patient population**: 55% of our limb salvage population comprised of people categorized as Black or Hispanic[{2}](https://pubmed.ncbi.nlm.nih.gov/36759932/), and many travel here from throughout southeast Texas and Louisiana [{3}](https://nealbarshes.github.io/Maps/Interactive/MEDVAMCzips/MEDVAMCCBOCsLeafletMap.html).  
 
-![team logo](../assets/VAvascularTeamLogo_07_400px.png)
+![team logo](https://nealbarshes-protocols.github.io/assets/VAvascularTeamLogo_07_400px.png)
 
 
 ## Our team is recognized for _outstanding clinical outcomes_.
