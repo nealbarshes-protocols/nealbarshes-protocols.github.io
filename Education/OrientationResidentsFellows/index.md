@@ -24,7 +24,10 @@ nav_order: 1
 # On-boarding to be completed by the end of day 1
 
 ## Our Team Ethos
-Read about [our team](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/AboutOurTeam.html).
+Read about [our team](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/AboutOurTeam).
+
+
+
 
 ## Roles and Expectations
 Review the [expectations of all residents and fellows](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/AllTrainees.md) and your level-specific roles, duties and expectations: 
