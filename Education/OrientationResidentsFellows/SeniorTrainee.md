@@ -1,5 +1,5 @@
 ---
-title: "senior (PGY-2+) residents"
+title: "PGY-2+ (senior) residents"
 parent: EDUCATION
 nav_order: 3
 ---
