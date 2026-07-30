@@ -1,6 +1,9 @@
 ---
-nav_exclude: true
+title: intern | daytime
+parent: EDUCATION
+nav_order: 1
 ---
+
 
 ## PGY-1 focus: perioperative inpatient care
 
