@@ -1,5 +1,5 @@
 ---
-title: Recommended Readings
+title: recommended readings
 parent: EDUCATION
 nav_order: 8
 ---
