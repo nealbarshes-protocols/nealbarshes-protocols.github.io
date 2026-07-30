@@ -1,5 +1,5 @@
 ---
-title: intern | night float
+title: PGY-1 night float intern
 parent: EDUCATION
 nav_order: 5
 ---
