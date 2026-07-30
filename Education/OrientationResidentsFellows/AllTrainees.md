@@ -1,5 +1,7 @@
 ---
-nav_exclude: true
+title: all trainees | expectations
+parent: EDUCATION
+nav_order: 2
 ---
 
 
