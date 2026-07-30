@@ -27,28 +27,11 @@ nav_order: 1
 Read about [our team](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/AboutOurTeam).
 
 
-
-
 ## Roles and Expectations
 Review the [expectations of all residents and fellows](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/AllTrainees.md) and your level-specific roles, duties and expectations: 
 1. [Daytime intern](DaytimeInterns.md)
 2. [Senior resident or fellow](SeniorTrainee.md)
 3. [Night float](NightFloat.md)
-
-
-
-## Weekly Conference Schedule
-
-Familiarize yourself with the weekly schedule of conferences with an educational ±service component:
-
-Day | Time | Conference | Participants
------------- | ------------- | ------------- | ------------- |
-Mon | 0745-0815 | VA vascular morning report | VA staff, BCM trainees, students
-Tue | 0700-0800 | BCM pre-op conference | BCM faculty, trainees, students
-Wed | 0700-1000 | BCM surgery education | BCM faculty, trainees, students
-Thu | 0745-0815 | VA vascular morning report | VA staff, BCM surgery residents, students
-Thu | 1200-1300 | VA vascular didactics | VA staff, BCM surgery residents, students
-Fri | 0700-0800 | morbidity and mortality conf OR didactics | BCM faculty, trainees, students
 
 
 
