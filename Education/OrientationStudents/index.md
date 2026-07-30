@@ -1,5 +1,5 @@
 ---
-title: medical students
+title: MS medical students
 parent: EDUCATION
 nav_order: 6
 ---
