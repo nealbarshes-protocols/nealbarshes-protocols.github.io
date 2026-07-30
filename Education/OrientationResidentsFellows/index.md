@@ -1,5 +1,5 @@
 ---
-title: Orientation
+title: orientation
 parent: EDUCATION
 nav_order: 1
 ---
