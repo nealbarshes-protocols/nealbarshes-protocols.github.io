@@ -1,6 +1,9 @@
 ---
-nav_exclude: true
+title: night float
+parent: EDUCATION
+nav_order: 5
 ---
+
 
 
 ### Roles, duties and expectations of the Night Float Intern: 
