@@ -1,7 +1,7 @@
 ---
 title: Recommended Readings
 parent: EDUCATION
-nav_order: 2
+nav_order: 8
 ---
 
 
