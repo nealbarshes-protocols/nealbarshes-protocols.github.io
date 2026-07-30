@@ -1,5 +1,5 @@
 ---
-title: night float
+title: intern | night float
 parent: EDUCATION
 nav_order: 5
 ---
