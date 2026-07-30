@@ -1,5 +1,5 @@
 ---
-title: PGY-1 daytime intern
+title: PGY-1 day
 parent: EDUCATION
 nav_order: 4
 ---
