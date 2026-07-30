@@ -1,5 +1,5 @@
 ---
-title: Conferences
+title: conferences
 parent: EDUCATION
 nav_order: 7
 ---
