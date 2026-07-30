@@ -1,5 +1,5 @@
 ---
-title: all trainees | expectations
+title: PGY-all
 parent: EDUCATION
 nav_order: 2
 ---
