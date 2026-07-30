@@ -1,5 +1,7 @@
 ---
-nav_exclude: true
+title: "senior (PGY-2+) residents"
+parent: EDUCATION
+nav_order: 3
 ---
 
 ## Roles, duties and expectations for PGY-2 to -7 Trainees: 
