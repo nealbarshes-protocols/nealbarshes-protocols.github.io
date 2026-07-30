@@ -17,7 +17,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |03 | Patient education, pre-op |
 |04 | Brillians code  |
 |05 | [Pre-op checklist, additional items](https://nealbarshes-protocols.github.io/Protocols/Protocols_LowerExtAmp/05_PreOpChecklist_LegAmp.md) |
-|06 | [<b>Post-op orders</b>](https://nealbarshes.github.io/LegAmputation/) |
+|06 | [<b>Post-op orders</b>](https://nealbarshes.github.io/Tutorials/LegAmputation/) |
 |07 | Post-op problems: protocols |
 |08 | Inpatient SOAP note template |
 |09 | Discharge planning |
