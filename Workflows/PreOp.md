@@ -1,3 +1,11 @@
+---
+title: pre-op
+parent: WORKFLOWS
+nav_order: 4
+---
+
+## [Pre-op checklist](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/05_PreOpChecklist_AllPatients.md) |
+
 
 ### Our team's color coding on ORC:
 color | meaning
