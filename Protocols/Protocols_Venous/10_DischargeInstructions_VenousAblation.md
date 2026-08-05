@@ -2,8 +2,9 @@
 ADD UNDER "DISCHARGE MEDICATIONS SECTION"  
 ***********************************************  
 
-Acetaminophen (generic equivalent of Tylenol or name-brand Tylenol) 500mg up to every 6 hours for mild to moderate pain. 
+Acetaminophen (Tylenol or generic equivalent of Tylenol) 500mg up to every 6 hours for mild to moderate pain. 
 
+Diphenydramine (Benadryl or generic equivalent of Benadryl) 25-50mg up to every 3 hours for itching or pain at injection sites. 
 
 
 
