@@ -20,7 +20,6 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |05 | [Pre-op: iMed consent](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/05_PreOp_iMedConsent) |
 |05 | [Procedure: Varithena in SACC D](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/06_VenousProcedures_SACCD_Varithena.md)
 |06 | [<b>Post-op orders</b>](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/06_PostOpOrders_VenousAblation) |
-
 |10 | [Patient discharge instructions](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/10_DischargeInstructions_VenousAblation.md) |
 |11 | Patient education, post-op |
 |12 | Clinic follow-up |
