@@ -1,4 +1,6 @@
-Select all outpatient medications, then "Copy to New Order"
+First, start by select all outpatient medications in the Active, then "Copy to New Order".
+Note: this will restart all **outpatient/home antihypertensive medications**. Only exception to restarting home antihypertensive medications would be patients who have required vasopressors after unclamping to maintain systolic blood pressure >100 mmHg. 
+
 Admit: Admit to 5A
 
 ### Under Surgery Orders --> Vascular Surgery Orders:
@@ -57,8 +59,8 @@ Polyethylene glycol 3350 17 g PO every 12 hours.
 Patient Care >> "Keep overhead lights on and curtains open during daytime hours (7A-9PM)."  
 
 
-NPO x6h; if neck without swelling, advance to clear liquids.  
-Regular or diabetic diet POD #1. 
+NPO while in PACU; if neck without swelling, advance to clear liquids when transferred out of PACU.  
+Solid food (regular or diabetic diet) POD #1 at latest. 
 
 
 
