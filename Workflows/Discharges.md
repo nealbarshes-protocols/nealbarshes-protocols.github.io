@@ -53,7 +53,7 @@ Include generic and procedure-specific instructions that are on the GitHub site.
 
 ### Generate the discharge instructions.
 Notes tab --> New Note --> “DISCHARGE INSTRUCTIONS TO PATIENT”
-Include elements from [discharge instruction templates for all patients](http://nealbarshes-protocols.github.io/Protocols_AllPatients/10_DischargeInstructions_AllPatients) and [procedure- or disease process-specific instructions](https://nealbarshes-protocols.github.io/Protocols/) that are on this site.
+Include elements from [discharge instruction templates for all patients](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/10_DischargeInstructions_AllPatients) and [procedure- or disease process-specific instructions](https://nealbarshes-protocols.github.io/Protocols/) that are on this site.
 
 
 ### Confirm plans for discharge.
