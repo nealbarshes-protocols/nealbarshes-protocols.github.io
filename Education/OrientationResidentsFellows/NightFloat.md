@@ -13,8 +13,8 @@ Complete post-operative checks (with notes) on all patients who have come out of
 Direct communication of overnight clinical events with the senior-most vascular trainee responsible for the patient.
  Avoid ordering daily labs on inpatients.
 
-Initial evaluation of new consults after 6pm with the senior trainee: for most vascular surgery consults. Here are the exceptions, i.e. consults that can be seen by the night float intern alone and discussed directly with the on-call staff surgeon:
-1.	Nonhealing or acutely infected foot wounds (i.e. “Foot Call”)
+Initial evaluation of new consults after 6pm with the senior trainee: for most vascular surgery consults. Here are the exceptions, i.e. consults that can/should be seen by the **night float intern alone** and discussed directly with the on-call staff surgeon:
+1.	Nonhealing or acutely infected foot wounds (i.e. “[Foot Call](https://nealbarshes-protocols.github.io/Workflows/Consults.html#foot-call-schedule)”)
 2.	Patients admitted to another service (General Surgery, Orthopedic Surgery, Medicine) as part of Foot Call, for whom Vascular Surgery is consulted for non-urgent revascularization
 3.	Non-functional arteriovenous fistulas or grafts, including those with: no thrill, no bruit, no flow on Doppler imaging, unsuccessful dialysis attempt, etc. NOTE: The on-call vascular trainee must still see consults with a clinical concern for bleeding (active or recent), ischemia/”steal”, infection, aneurysmal dilation, non-healing eschars. 
 4.	Consults for guidance regarding a patient’s antiplatelet or anticoagulation regimen
