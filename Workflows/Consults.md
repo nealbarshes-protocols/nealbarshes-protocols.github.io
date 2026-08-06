@@ -39,3 +39,27 @@ Per hospital policy, ER consults must be **seen within 30 mins** and have **writ
 9. Add the on-call staff surgeon to the providers and designate him/her as "Primary".
 10. Use the most accurate and specific diagnosis that applies, using guidance from the disease-specific webpages here.
 
+
+## "Foot Call" Schedule
+
+Our vascular team is on-call Tuesdays, Fridays and Saturdays for INITIAL consults on patients with foot ulcers or foot gangrene with or without infection.
+
+Day | Team
+--- | ---
+Mon | ACS
+**Tue** | **vascular**
+Wed | ortho
+Thu | ACS
+**Fri** | **vascular**
+**Sat** | **vascular**
+Sun | ortho
+
+NOTE: Our team is ALWAYS available to consult for the suspicion of PAD in patients with foot ulcers or foot gangrene. 
+
+Our team -- and all other teams that take call -- should be re-consulted for any patient we saw as an INITIAL foot consult. This is the specific memo wording that our surgical subspecialties have been working from:
+1.	Unhealed ulcers previously managed, co-managed or evaluated by a MEDVAMC surgical team (vascular surgery, podiatric surgery, orthopedic surgery, or general surgery) should be managed by **same** MEDVAMC surgical team, regardless of the duration of the ulcer.
+2.	Ulcers that have **recurred** at a site previously managed, co-managed or evaluated by a MEDVAMC surgical team (vascular surgery, podiatric surgery, orthopedic surgery, or general surgery) should be managed by the same MEDVAMC surgical team, regardless of the duration of the ulcer.
+3.	Foot infections that are **at or contiguous** to a site previously managed, co-managed or evaluated by a MEDVAMC surgical team (vascular surgery, podiatric surgery, orthopedic surgery, or general surgery) should managed by the same MEDVAMC surgical team.
+4.	New foot ulcers -- with or without infection – that occurs **during treatment of a foot ulcer or infection** in the aforementioned categories (1-3, above) should also be managed by the same MEDVAMC surgical team. (This would prevent the seemingly-awkward situation of two teams managing different feet or two ulcers on the same foot). 
+5.	New foot ulcers – with or without infection – that are **not** at or contiguous to a site previously treated should be referred back to the MEDVAMC surgical team who previously managed the patient. A **staff surgeon** of that team who is on-call or familiar with the patient should have the right of refusal for further management of this patient. If refused, the management of the new foot ulcer should be done by the on-call foot team.
+
