@@ -28,7 +28,7 @@ Read about [our team](https://nealbarshes-protocols.github.io/Education/Orientat
 
 
 ## Roles and Expectations
-Review the [expectations of all residents and fellows](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/AllTrainees.md) and your level-specific roles, duties and expectations: 
+Review the [expectations of all residents and fellows](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/AllTrainees.html) and your level-specific roles, duties and expectations: 
 1. [Daytime intern](DaytimeInterns.md)
 2. [Senior resident or fellow](SeniorTrainee.md)
 3. [Night float](NightFloat.md)
