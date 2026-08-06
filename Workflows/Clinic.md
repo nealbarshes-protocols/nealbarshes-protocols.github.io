@@ -8,7 +8,7 @@ nav_order: 5
 
 This pertains to in-person clinics occuring on Monday mornings and Thursday morning and afternoon. 
 
-One or more days before clinic, one of the 5C surgery clinic nurses will populate the [clinic grid ("swim lanes")](https://nealbarshes-protocols/assets/VascularTeam_Clinic_SwimLanes.docx). 
+One or more days before clinic, one of the 5C surgery clinic nurses will populate the [clinic grid ("swim lanes")](https://nealbarshes-protocols/assets/VascularTeamClinicSwimLanes.docx). 
 
 Prior to rooming, one of the 5C surgery clinic nurses will give new patients and pre-op patients a [History/ROS (a.k.a. "intake" form)](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/01_HistoryROS_AllPatients.pdf).
 
@@ -23,4 +23,4 @@ Prior to rooming, one of the 5C surgery clinic nurses will give new patients and
 
 
 ## Patient Contact Log
-[Calls to 5C or via messaging](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/IQBZe9NmgV4JRa7Cq2TGwDxwAZMDErafn5Ud4KHo7SPbmv0?e=RRxzDA).
+[Calls to 5C or via messaging](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/IQBZe9NmgV4JRa7Cq2TGwDxwAZMDErafn5Ud4KHo7SPbmv0?e=RRxzDA) [NOTE: for our NPs and staff surgeons only].
