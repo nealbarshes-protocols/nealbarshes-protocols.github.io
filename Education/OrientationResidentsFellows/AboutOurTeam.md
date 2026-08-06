@@ -19,7 +19,7 @@ Multidisciplinary efforts led by our team have [reduced the leg amputation incid
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:18px; background-color: ##fdffde;">
 These clinical achievements have occurred through <b>consistency</b>, <b>communication</b>, being <b>proactive</b> rather than reactive, and pursuing <b>continuous improvement</b>.</blockquote>
 
-The clinical protocols and workflows contained on these webpages will help ensure **consistency**. We are fond of **communication** that is accurate, succint and direct (rather than indirect, layered, or hierarchical). Team-wide communication occurs in our [team morning report](https://nealbarshes-protocols.github.io/assets/MorningReport.md), Mondays and Thursdays at 0745am.
+The clinical protocols and workflows contained on these webpages will help ensure **consistency**. We are fond of **communication** that is accurate, succint and direct (rather than indirect, layered, or hierarchical). Team-wide communication occurs in our [team morning report](https://nealbarshes-protocols.github.io/Education/MorningReport.html), Mondays and Thursdays at 0745am.
 
 In addition to morning report, **continuous improvement** is developed at M&M conference with presentations using this [full M&M slide  template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate.pptx) or this [brief M&M slide template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate_ChartCompletion.pptx). Hospital systems issues should be reported using the Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F). 
 
@@ -41,7 +41,7 @@ Develop these habits to earn trust with patients and family members:
 All our faculty are dedicated to surgical education. Our staff surgeons has been recognized with multiples awards for teaching efforts and have held educational leadership positions within the College. We are all committed to helping you grow, especially through **high-quality feedback**:
 
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:16px; background-color: ##fdffde;">
-"The acquisition of skills requires a regular environment, and adequate opportunity to practice, and <b>rapid and unequivocal feedback about the correctness of thoughts and actions</b>. When these conditions are fullfilled, skill eventually develops, and the intuitive judgments and choices that quickly come to mind will mostly be accurate.” Daniel Kahneman, <i>Thinking Fast and Slow</i></blockquote>
+"The acquisition of skills requires a regular environment, and adequate opportunity to practice, and <b>rapid and unequivocal feedback about the correctness of thoughts and actions</b>. When these conditions are fulfilled, skill eventually develops, and the intuitive judgments and choices that quickly come to mind will mostly be accurate.” Daniel Kahneman, <i>Thinking Fast and Slow</i></blockquote>
 
 
 <hr>
@@ -70,7 +70,7 @@ Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com
 
 >**Feedback**: Low value in senior trainee personally seeing all consults overnight.
 
-**Change implemented:** We've created a list of consults that can be seen by the surgery night float (PGY-1) resident, including many common consult scenarios. These are listed on the [night float responsibilities](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/NightFloat.html) page.
+**Change implemented:** We've created a list of consults that can be seen by the surgery night float (PGY-1) resident, including many common consult scenarios. These are listed on the [night float responsibilities](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/NightFloat.html) page.
 
 >**Feedback**: Group setting for feedback can be intimidating.
 
