@@ -60,14 +60,11 @@ In general, go to the operating room when the senior trainees on your team are o
 
 
 #### Recommended supplemental reading:
-1. [Lower extremity peripheral artery disease, including claudication,	 primer by Dr. Barshes](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnealbarshes.github.io%2FPAD%2F&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562715078%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ulSUUHdc8UzB6uWq93qGMihGL%2BXfZPgk5IRU5szmQ9Q%3D&reserved=0)
+1. [Lower extremity peripheral artery disease, including claudication,	 primer by Dr. Barshes](https://nealbarshes.github.io/Tutorials/PAD/)
 2. [Aneurysms of the thoracic and abdominal aorta: APDVS Medical Student Chapter by Dr. Greenleaf](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapdvsebook.quarto.pub%2Fthe-apdvs-medical-student-curriculum%2FAAA2.html&data=05%7C02%7Cnbarshes%40bcm.edu%7C016ed56e732f4562c22608deaaa3147d%7Ca83dba53124d4d3288f0b72889a9e926%7C0%7C0%7C639135814562739178%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5HxjsVJDa6NktsqtqyPXRzoUv43RzgQuO1bbPEdY2h8%3D&reserved=0)
 
 
 
-
-
- 
   
 Good luck on your rotation! We are looking forward to working with you. Please contact us with any questions or feedback.
  
