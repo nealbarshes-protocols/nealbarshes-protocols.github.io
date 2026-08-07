@@ -85,6 +85,5 @@ Depending on your level, take the [intern quiz](https://www.surveymonkey.com/r/J
 4. Assign a "surrogate" signer: under "Tools", "Options", "Surrogates" tab. Should be the resident taking over your role.
 5. Get end-of-rotation feedback from the staff surgeons, either as a group or 1:1.
 
-<hr>
 
 
