@@ -6,47 +6,37 @@ nav_order: 3
 
 ## Expectations for ALL consults:
 1. Team/individual requesting consultation or clinical input enters in a CPRS consult for our team. We don't do "curbsides".
-2. Consult note is written by the level-appropriate trainee who sees, evaluates and discusses the consult with the on-call staff surgeon. This will typically be the on-call senior resident, except for consults that can be seen .
+2. See and evaluate the patient before discussing with the on-call staff surgeon (found on the [schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW)).
+3. Consult note is written by the level-appropriate trainee who sees, evaluates and discusses the consult with the on-call staff surgeon . This level-appropriate trainee will typically be the **on-call senior resident**, with exceptions for consults that can be seen by the night float intern. This note should have the "Vascular Surgery Note"; it should not be an OCL History/Physical.
+4. Add on-call staff surgeon and consulting individual as co-signers on your note.
+5. Call consulting individual or member of team requesting consultation to discuss findings and recommendations.
+6. Add patient information on the "Consults" tab of the [inpatient list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR).  
 
 
 
-## INPATIENT consults
+## Checklist for the INITIAL INPATIENT consults
 This workflow applies to patients who are **currently admitted** to another inpatient team **_AND_ have an inpatient bed**. 
 
-### Checklist for the INITIAL inpatient consult
-1. Ensure the consulting clinician has entered a CPRS consult for our team.   
-2. Start a stopwatch to note the time.   
-2. Evaluate the patient.   
-3. Discuss with the on-call staff surgeon (found on the [schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW))   
-4. Add patient information on the "Consults" tab of the [inpatient list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR).   
-5. Start a consult note by clicking on patient's location (to the right of name), select "New Encounter", then find and select "**HOU VAS INPT ENCS PRV**".
-6. Write a note to document important findings. State and justify the working diagnosis. Describe the management plan.   
-7. Complete the encounter information for the consult note, starting with _visit type_, Type of Visit = "**CONSULTATIONS-INPT**". Section name will typically be "**Mod MDM or 60+ min 99254**", or "**High MDM or 80+ min 99255**"
-8. Make a Service Connected choice: Yes/No. For vascular problems, always "No" for Agent Orange and Military Sexual Trauma.
-9. Add the on-call staff surgeon to the providers and designate him/her as "Primary".
-10. Use the most accurate and specific diagnosis that applies, using guidance from the disease-specific webpages here.
+1.. Start a consult note by clicking on patient's location (to the right of name), select "New Encounter", then find and select "**HOU VAS INPT ENCS PRV**". 
+2. Complete the encounter information for the consult note, starting with _visit type_, Type of Visit = "**CONSULTATIONS-INPT**". Section name will typically be "**Mod MDM or 60+ min 99254**", or "**High MDM or 80+ min 99255**"
+3. Make a Service Connected choice: Yes/No. For vascular problems, always "No" for Agent Orange and Military Sexual Trauma.
+4. Add the on-call staff surgeon to the providers and designate him/her as "Primary".
 
 
 <hr>
 
 ## OUTPATIENT consults
-This pertains to E.R. not yet admitted / without an inpatient location _or_ to outpatient consults seen in the hospital building (ex. ECL Wound Care clinic).
+This pertains to mainly to E.R. patients not yet admitted or at least assigned inpatient location. It would also apply to outpatient consults seen in the hospital building (ex. ECL Wound Care clinic).
 
 Per hospital policy, ER consults must be **seen within 30 mins** and have **written plans** (note or admission orders) within **120 minutes**.
 
-1. Ensure the consulting clinician has entered a CPRS consult for our team.   
-2. Start a stopwatch to note the time.   
-2. Evaluate the patient.   
-3. Discuss with the on-call staff surgeon (found on the [schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW))   
-4. Start a consult note by clicking on patient's location (to the right of name), select "New Encounter", then find and select "**HOU VAS WALK-IN**".
-5. Write a note to document important findings. State and justify the working diagnosis. Describe the management plan.   
-7. Complete the encounter information for the consult note, starting with _visit type_, Type of Visit = "**NEW** or **ESTABLISHED** (if seen by our team within the past three years). Section name will typically be "**Mod MDM or 60+ min 99254**", or "**High MDM or 80+ min 99255**"
-8. Make a Service Connected choice: Yes/No. For vascular problems, always "No" for Agent Orange and Military Sexual Trauma.
-9. Add the on-call staff surgeon to the providers and designate him/her as "Primary".
-10. Use the most accurate and specific diagnosis that applies, using guidance from the disease-specific webpages here.
+1. Start a consult note by clicking on patient's location (to the right of name), select "New Encounter", then find and select "**HOU VAS WALK-IN**".
+2. Complete the encounter information for the consult note, starting with _visit type_, Type of Visit = "**NEW** or **ESTABLISHED** (if seen by our team within the past three years). Section name will typically be "**Mod MDM or 60+ min 99254**", or "**High MDM or 80+ min 99255**"
+3. Make a Service Connected choice: Yes/No. For vascular problems, always "No" for Agent Orange and Military Sexual Trauma.
+4. Add the on-call staff surgeon to the providers and designate him/her as "Primary".
 
 
-### Intern-level consults: 
+## INTERN-level consults: 
 Initial evaluation of new consults after 6pm with the senior trainee: for most vascular surgery consults. Here are the exceptions, i.e. consults that can/should be seen by the **night float intern alone** and discussed directly with the on-call staff surgeon:
 
 | consult scenario |
@@ -61,9 +51,9 @@ Initial evaluation of new consults after 6pm with the senior trainee: for most v
 
 
 
-## "Foot Call" Schedule
+## "FOOT CALL" Schedule
 
-Our vascular team is on-call Tuesdays, Fridays and Saturdays for INITIAL consults on patients with foot ulcers or foot gangrene with or without infection.
+Our vascular team is on-call Tuesdays, Fridays and Saturdays for INITIAL consults regarding the management of foot ulcers or foot gangrene with or without infection. Our team is ALWAYS available to consult for the suspicion of PAD / revascularization options in patients with foot ulcers or foot gangrene.
 
 Day | Team
 --- | ---
@@ -75,9 +65,8 @@ Thu | ACS
 **Sat** | **vascular**
 Sun | ortho
 
-NOTE: Our team is ALWAYS available to consult for the suspicion of PAD in patients with foot ulcers or foot gangrene. 
-
 Our team -- and all other teams that take call -- should be re-consulted for any patient we saw as an INITIAL foot consult. This is the specific memo wording that our surgical subspecialties have been working from:
+
 1.	Unhealed ulcers previously managed, co-managed or evaluated by a MEDVAMC surgical team (vascular surgery, podiatric surgery, orthopedic surgery, or general surgery) should be managed by **same** MEDVAMC surgical team, regardless of the duration of the ulcer.
 2.	Ulcers that have **recurred** at a site previously managed, co-managed or evaluated by a MEDVAMC surgical team (vascular surgery, podiatric surgery, orthopedic surgery, or general surgery) should be managed by the same MEDVAMC surgical team, regardless of the duration of the ulcer.
 3.	Foot infections that are **at or contiguous** to a site previously managed, co-managed or evaluated by a MEDVAMC surgical team (vascular surgery, podiatric surgery, orthopedic surgery, or general surgery) should managed by the same MEDVAMC surgical team.
