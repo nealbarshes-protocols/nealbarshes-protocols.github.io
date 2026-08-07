@@ -38,7 +38,7 @@ Clinic volumes, coverage.
 OR cases, plans for add-ons or second rooms.
 
 
-### Ensuring Continuous Education :  
+### Ensuring Continuous Education and :  
 
 Conferences: Tuesday pre-op and Friday M&M.  
 Reminder about Thursday 12:30 conference. Food at 12:15.  
