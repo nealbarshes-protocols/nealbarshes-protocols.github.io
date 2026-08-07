@@ -15,7 +15,7 @@ NEVER:
   <li>Be absent or tardy without discussing with surgery education office <b>AND</b> staff vascular surgeon (<i>not</i> another trainee, regardless of PGY level)</li>
   </ul>
 
-Commit to:
+### Commit to:
 <ul>
   <li>Getting to the operating room as much as possible, even if just to assist or observe.</li>
   <li>Saying “I don’t know, but I'll find out” when you aren't 100% confident in being 100% factually correct about something.</li> 
@@ -26,3 +26,11 @@ Commit to:
   <li>Developing two technical and one non-technical S.M.A.R.T. goal to be submitted by the end of your first week on rotation.</li>
   <li>Contributing to leave the service -- and the call room/work room --- better than how you found it.</li>
 </ul>
+
+### Earn trust with patients and family members: 
+1. Introduce yourself and state your role.
+2. Spend at least 50% of your interaction in <b>listening</b>.
+3. Make no promises you can't keep. (In general, underpromising and overproducing is best). 
+4. Be comfortable saying "I don't know, but I'll find out." Then find out and follow up.
+5. Explain <b>everything</b> you are going to do.
+6. Make sure someone talks to family / friend after the case.
