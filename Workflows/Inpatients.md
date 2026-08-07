@@ -67,8 +67,16 @@ Use the protocols website for full admission/pre-op/post-op order sets
 
 # Writing NOTES using CPRS
 
-1. Build a CPRS template with the checklist.
-Ensure completion of each item (expedite CXR, ECG, ward labs with phone calls if needed) 
+Use these note-writing templates for inpatient notes:
+
+| description | type |  
+| --- | --- |
+| [progress note, main body](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/InpatientNote_Body.md) | dialog |  
+| [exam, surgical site](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/Exam_SurgicalSite.md) | dialog |  
+| [exam, vascular/pulse](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/Exam_VascularLowerExt.md) |  
+| [chart summary](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/ChartSummary.md) |  
+| [assessment & plan, default](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/AP_Default.md) |  
+| [antiplatelet-anticoagulant plan](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/AP_AntiplateletAnticoagulant.md) |  
 
 
 <hr>
