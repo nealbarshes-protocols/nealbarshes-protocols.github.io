@@ -6,9 +6,22 @@ nav_order: 4
 
 ## [Pre-op checklist](http://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/05_PreOpChecklist_AllPatients.md) 
 
+<hr>
 
-#### Obtaining iMed Consents and LST notes on pre-op patients:
-<p style="color:green"><b>DO / ALWAYS:</b></p>
+### Anesthesia Clinic Appointment 
+Surgery Orders → Anesthesiology Pre Op Telemedicine Consult 
+Include diagnosis and surgery date 
+
+
+# Life-Sustaining Treatment (LST) notes
+Only needed if:
+1. There is NONE in the chart (easily found by clicking on the "Postings" box in the top right corner of CPRS).
+2. The patients expressed a desire to change preferences from what is already documented.
+
+<hr>
+
+# iMed Consents 
+Please the procedures cover AT LEAST the procedures that are listed on ORC. 
 <ol>
   <li>Include any relevant possibles:</li>
   <ul>
@@ -17,6 +30,9 @@ nav_order: 4
     <li>AV fistula: possible AV graft ONLY if E.S.R.D., not if CKD5.</li>
     <li>vein ablation: possible laser ablation, possible radiofrequency ablation, possible schlerotherapy, possible stab phlebectomies.</li>
   </ul>
+
+<p style="color:green"><b>DO / ALWAYS:</b></p>
+
   <li>Include names of all five staff surgeons.</li>
   <li><b><u>ALWAYS</u></b> select "anesthesia practicioner will be present ..."</li>
   <li>SPELL OUT any/all anatomic locations without abbreviating. For limbs, this means "left" or "right" and "foot", "calf", "heel", "lower extremity", or other anatomic descriptor. For digits, i.e. toes, SPECIFY WHICH: "Left first and second toes", for example.</li>
