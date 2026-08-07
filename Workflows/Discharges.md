@@ -32,6 +32,7 @@ Written by: Orders tab--> RTC Main Menu--> OCL Clinics --> Vascular
     “HOU VAS SURGERY POST-OP 1653A” if surgical incision or >8Fr access.  
     “HOU PHONE VASCULAR SURG” for follow-up after all other operations/procedures.  
     "HOU VAS SURGERY PRE-OP 1652" if patient needs to be pre-op'ed for another operation.
+    NOTE: the "HOU VAS SURGERY INITIAL" should generally NOT be used for patients known to us.
 Do NOT overbook unless instructed to by an attending surgeon. 
 
 ### Additional clinic follow-up 
