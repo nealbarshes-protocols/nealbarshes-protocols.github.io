@@ -36,6 +36,10 @@ nav_order: 4
 
 <hr>
   
+### Random notes (from Grace's document):
+1. Full OCL H&P required within 30 days for that specific surgery.
+2. Inpatient pre-op: no “OCL Update H&P” required if OCL H&P already present.
+3. Outpatient pre-op: needs OCL Update H&P morning of surgery if OCL H&P has been completed within 30 days.
 
 
 
