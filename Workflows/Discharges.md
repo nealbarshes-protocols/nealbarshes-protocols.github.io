@@ -71,3 +71,60 @@ Orders --> Surgery Orders --> Surgery Orders -->
 
 ### Write and sign the discharge summary.
 
+
+<hr>
+
+These are Grace's notes on the discharge process. 
+
+Order needed outpatient meds; discontinue what they will not take 
+
+Outpatient narcotic: Surgery Orders → General Surgery Orders → Discharge Pain Medications. *Note: this only works for tramadol or Norco 
+
+Other outpatient narcotics: new note > “opioid point of care data-based risk review” > follow steps indicated in note 
+
+Ensure to complete PDMP note. New note > “state prescription drug monitoring program” → click on hyperlink in note and login to PDMP website → search patient → copy+paste RX SUMMARY EXPANDED into note 
+
+Notes → Medication Reconciliation 
+
+Notes → Discharge Instructions to Patient 
+
+Surgery Orders → Vascular Surgery Orders → Discharge Patient 
+
+Discharge Summary tab → New Summary → OCL Discharge Summary → select admission → type in staff name 
+
+Discharge to SNF 
+
+Consults → Community Care – One Consult Model → Community Care – Community Skilled Nursing Facility > enter required data (HPI, Dx, date) 
+
+Clinically indicated date is the D/C date → enter diagnosis → accept → sign in Orders 
+
+Discharge to CLC 
+
+Notes → “CLC REFERRAL NOTE LIP” → complete template → click “Yes” at bottom of note to auto-generate consult order 
+
+Alert Social Work and OT (each needs to complete a note) 
+
+Cancel obsolete orders before D/C (complex text orders, unused IV pain meds) 
+
+Document daily: “patient is medically stable for discharge to CLC” 
+
+Home Health / PT 
+
+Consults → Community Care – One Consult Model → GEC Community Skilled Care → Type of service “Treatment” → include chief complaint/HPI; staff name; select UNKNOWN Medicare vs VA pay 
+
+Certify (date, your name, MEDVAMC); PECOS unknown; veteran homebound 
+
+Select appropriate indication (e.g., decreased activity tolerance) 
+
+Skilled nursing orders → Wound Care (complete boxes per wound) 
+
+Add PT if needed → click “physical therapy” and complete 
+
+Clinically indicated date is the D/C date; diagnosis often PVD → accept → sign 
+
+
+### Home wound care supplies 
+Orders → Medications Outpatient Supplies → correct quantities → “pick up at window” for each 
+
+
+
