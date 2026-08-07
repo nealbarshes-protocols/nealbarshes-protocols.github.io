@@ -48,6 +48,8 @@ Iodosorb, Santyl and other solutions should NOT be in the bucket. They need to b
 
 Order Iodosorb and Dakin's under Medications. Then put in a text order to have it at the patient's bedside. 
 
+Please **DON'T** pan-lab everyone everyday. Daily BMPs for patients with ESRD or stage 5 CKD. For everyone else, CMP and CBC with differential twice a week: **Mondays** and **Thursdays** (i.e. ordered Sunday and Wednesday for draws the following morning).
+
 
 ### Admission Orders 
 Surgery Orders → Surgery Orders → Vascular Surgery Orders → Admit Patient 
