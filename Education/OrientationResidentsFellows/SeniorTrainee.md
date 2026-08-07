@@ -7,7 +7,7 @@ nav_order: 3
 ## Roles, duties and expectations for PGY-2 to -7 Trainees: 
 
 ### Primary role
->Your primary roles are (1) leading your inpatient team; (2) operating; (3) consulting. 
+>Your primary roles are (1) overseeing and leading management for inpatients; (2) operating; (3) consulting. 
 
 
 ### This month's focus for continuous improvement is:
@@ -15,14 +15,11 @@ nav_order: 3
 
 
 ### Typical work days
-1. Twice-daily rounds, daily notes and orders.
-2. Round with your junior resident twice a day and divide daily notes and orders equitably.
-3. Teach and delegate level-appropriate responsibilities.
-4. When appropriate, guide your junior resident through parts of procedures.
-5. Daily list run with relevant staff surgeon, Inpatient nurse practicioner (<span>&#177;</span>social worker <span>&#177;</span>case manager <span>&#177;</span>pharmacist).
-6. If you will be in OR or otherwise unable to do time-sensitive work, request the help of the inpatient intern assigned to you on that given day, the inpatient nurse practicioner, or the relevant staff surgeon. 
-7. Write the initial post-operative orders for any operations you do as primary resident -- even if you are working with the inpatient intern.
-8. Guiding and teaching any daytime intern assigned to you. He or she should be in the OR when you are in the OR. You should divide work equitably and according to experience.  Interns should be assigned a week at a time by seniority, with PGY-7, then PGY-6 or vascular PGY-4 or general PGY-4.  When two or more senior of equal level are on service, intern assignment will alternate by week.
+1. Morning rounds. Note that neither junior residents nor students can "pre-round": everyone starts work (including pre-rounding data gathering) at the **same time**. 
+2. [Team morning report](https://nealbarshes-protocols.github.io/Education/MorningReport.html) on Mondays and Thursdays.
+3. On days without morning report, time-sensitive updates to staff surgeons.
+4. Bulk of the daytime is typically either OR, clinic, or on-call/consults.
+5. If you do operate, write the initial post-op orders.
 
 
 ### When on-call
@@ -33,8 +30,6 @@ nav_order: 3
 
 ### M&M Conference Presentations
 Please prepare for M&M conference presentations using this [full M&M slide  template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate.pptx) or this [brief M&M slide template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate_ChartCompletion.pptx). 
-
-
 
 <hr>
 <br>
