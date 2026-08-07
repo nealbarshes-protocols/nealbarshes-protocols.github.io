@@ -11,7 +11,7 @@ nav_order: 3
 
 
 ### This month's focus for continuous improvement is:
->Ensuring that the [consult workflow](https://nealbarshes-protocols.github.io/Workflows/ConsultsInpatient.html) is followed, especially requiring that the consulting team enters a consult, also using “HOU VAS INPT ENCS PRV” for inpatient consults and "HOU VAS WALK-IN" for outpatients.
+>Ensuring that the [consult workflow](https://nealbarshes-protocols.github.io/Workflows/Consults.html) is followed, especially requiring that the consulting team enters a consult, also using “HOU VAS INPT ENCS PRV” for inpatient consults and "HOU VAS WALK-IN" for outpatients.
 
 
 ### Typical work days
@@ -26,23 +26,23 @@ nav_order: 3
 
 
 ### When on-call
-1. Follow our [consult workflow](https://nealbarshes-protocols.github.io/Workflows/ConsultsInpatient.html). Note that there  [consults that can be seen by the PGY-1 night float](https://nealbarshes-protocols.github.io/OrientationResidentsFellows/NightFloat.html).
+1. Follow our [consult workflow](https://nealbarshes-protocols.github.io/Workflows/Consults.html). Note that there  [consults that can be seen by the PGY-1 night float](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/NightFloat.html#intern-level-consults).
 2. Get hand-off from a senior trainee on the other team. This should be done via voice conversation, i.e. in-person or via phone, NOT text or email.
 3. In addition to calling regarding consults, notify the on-call staff surgeon about any significant clinical changes that occur on inpatients.
-4. Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day. Follow our [fatigue protocol](https://nealbarshes-protocols.github.io/ContingencyPlans/Fatigue.md) for further instructions. 
+4. Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day. Follow our [fatigue protocol](https://nealbarshes-protocols.github.io/ContingencyPlans/Fatigue) for further instructions. 
 
 ### M&M Conference Presentations
 Please prepare for M&M conference presentations using this [full M&M slide  template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate.pptx) or this [brief M&M slide template](https://nealbarshes-protocols.github.io/assets/VascularTeam_Mtg_M&M_SlideTemplate_ChartCompletion.pptx). 
 
+
+
 <hr>
 <br>
 
-### When you have down-time
+### When you have down-time:
 - Come by the operating room!
-- Present in the hospital until 3pm when not in the operating room.
 - Discuss the next day's operative plans, inpatient management with staff surgeons.
 - Prepare M&M presentations and discuss with staff.
+- Teach interns and students.
 - Read!
-
-<hr>
 
