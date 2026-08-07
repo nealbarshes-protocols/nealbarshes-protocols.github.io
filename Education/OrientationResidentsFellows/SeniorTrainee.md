@@ -23,7 +23,7 @@ nav_order: 3
 
 
 ### When on-call
-1. Follow our [consult workflow](https://nealbarshes-protocols.github.io/Workflows/Consults.html). Note that there  [consults that can be seen by the PGY-1 night float](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/NightFloat.html#intern-level-consults).
+1. Follow our [consult workflow](https://nealbarshes-protocols.github.io/Workflows/Consults.html). Note that there  [consults that can be seen by the PGY-1 night float](https://nealbarshes-protocols.github.io/Workflows/Consults.html#intern-level-consults).
 2. Get hand-off from a senior trainee on the other team. This should be done via voice conversation, i.e. in-person or via phone, NOT text or email.
 3. In addition to calling regarding consults, notify the on-call staff surgeon about any significant clinical changes that occur on inpatients.
 4. Notify on-call faculty if staying from your daytime shift until 10:30pm or later (continuously -- does NOT include coming back to the hospital) for help in adjusting your schedule the following day. Follow our [fatigue protocol](https://nealbarshes-protocols.github.io/ContingencyPlans/Fatigue) for further instructions. 
