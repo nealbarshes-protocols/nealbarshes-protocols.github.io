@@ -71,12 +71,15 @@ Use these note-writing templates for inpatient notes:
 
 | description | type |  
 | --- | --- |
-| [progress note, main body](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/InpatientNote_Body.md) | dialog |  
+| [progress note, main body](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/_CPRSnoteTemplates/Exam_SurgicalSite.md) | dialog |  
 | [exam, surgical site](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/Exam_SurgicalSite.md) | dialog |  
 | [exam, vascular/pulse](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/Exam_VascularLowerExt.md) | dialog |  
 | [chart summary](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/ChartSummary.md) | dialog |  
 | [assessment & plan, default](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/AP_Default.md) | dialog |  
 | [antiplatelet-anticoagulant plan](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/AP_AntiplateletAnticoagulant.md) | dialog |  
+
+
+_CPRSnoteTemplates/InpatientNote_Body.md
 
 
 <hr>
