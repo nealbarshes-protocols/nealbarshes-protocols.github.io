@@ -51,19 +51,12 @@ Order Iodosorb and Dakin's under Medications. Then put in a text order to have i
 Please **DON'T** pan-lab everyone everyday. Daily BMPs for patients with ESRD or stage 5 CKD. For everyone else, CMP and CBC with differential twice a week: **Mondays** and **Thursdays** (i.e. ordered Sunday and Wednesday for draws the following morning).
 
 
-### Admission Orders 
-Surgery Orders → Surgery Orders → Vascular Surgery Orders → Admit Patient 
-Then complete the same detail flow as delayed admits 
+When writing orders on medications you are unfamiliar with, use a pharmacy reference (ex. Epocrates or Lexicomp, which is through CPRS under "Tools") to ensure new or high-risk medication orders are without error. 
 
-Delayed Admission Orders 
 
-Orders → Write Delayed Orders → “Admit to Vascular” (stay >48 h) or “Admit Observation Surgical” (stay <48 h) 
 
-Suicide “No” → Source “Home MEDVAMC” → Treating Specialty “Vascular” → Attending “Staff MD” → Team “Red/Blue”→ Ward (floor: 5B or 5E, step-down: 5A, ICU: SICU or 5K) → diagnosis → condition → accept 
+#### Admission Orders 
 
-Select only home meds that should continue inpatient (ask seniors for help) 
-
-Use the protocols website for full admission/pre-op/post-op order sets 
 
 <hr>
 
