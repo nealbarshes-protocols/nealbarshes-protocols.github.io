@@ -55,7 +55,25 @@ Here's video primer (6 minute 47 second) on completing encounter information:
   </a>
 </p>
 
+## Importing CPRS Note-Writing Templates
+This explains how to import our note templates into your CPRS for easy access and full functionality. 
+1. In CPRS, click on the "Notes" tab.
+2. At the top, select "Options" --> "Edit Templates".
+3. In the middle column at the top, click on the arrow to expand "My Templates".
+4. Name your new template. Would recommend "Vascular_", example "Vascular_PulseExam".
+5. Select "Dialog" or "Template", depending on the description of what you're importing.
+6. Would recommend ordering them using the arrows, organizing within folders.
 
+![dialog or template import](https://nealbarshes-protocols.github.io/assets/Thumbnail_NotesTemplateImport.png)
+
+
+## Highlight CPRS Notes with "Vascular"
+This explains how to customize your "Notes" view to have notes with "Vascular" in their title automatically highlighted in bold, also listed in a right-window when you first open the patient's chart. 
+1. In CPRS, click on the "Notes" tab.
+2. At the top, select "View" --> "Custom View".
+3. Configure like this:
+
+![highlighting vascular notes](https://nealbarshes-protocols.github.io/assets/Thumbnail_NotesHighlighting.png)
 
 ## Parking Hangtag
 
