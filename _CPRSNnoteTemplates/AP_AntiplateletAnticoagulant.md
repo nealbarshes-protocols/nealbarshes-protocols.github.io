@@ -12,3 +12,10 @@ a low dose and is NOT considered therapeutic anticoagulation.
 4. Other antiplatelets or antiplatelets, with dosage, duration, and indication 
 here:
 {FLD:TEXT 3 LINES}
+
+
+The patient is on antiplatelet or anticoagulant medications for OTHER reasons (i.e. NOT related to peripheral artery disease or a procedure done for 
+peripheral artery disease, such as atrial fibrillation or a history of drug-eluting coronary artery stents):
+{FLD:NO YES VERTICAL}
+{FLD:WP 3 FL 50}
+
