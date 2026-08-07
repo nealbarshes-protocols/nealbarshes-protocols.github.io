@@ -1,8 +1,10 @@
-Please note: these are DEFAULTS for all patients. Goes by columns in the "Vascular Surgery Orders" ordering dialogue (under "Orders" --> "Surgery Orders"" --> "Vascular Surgery").
+The most efficient way to start orders is to select all home medications that will be continued on the "Orders" tab, then go to "Action" --> Copy to New Order. Select only home meds that should continue inpatient (ask seniors for help). Do NOT discontinue clopidogrel or ticagrelor before reviewing initial indication (esp. recent drug-eluting coronary stents).
+
+The rest of the orders described here go by columns in the "Vascular Surgery Orders" ordering dialogue (under "Orders" --> "Surgery Orders"" --> "Vascular Surgery").
+
 
 
 ### A = "ADMISSION/TRANSFER/DISCHARGE"	(1st column)
-
 
 A = Admit = 5E or 5B (not 5A unless specific criteria are met).
 D = Diagnosis 
