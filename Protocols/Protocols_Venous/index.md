@@ -18,7 +18,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 |03 | [Patient education: SVS varicose vein flyer](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/03_PtInfo_SVS_VaricoseVeins.pdf) |
 |03 | [Patient education, pre-op: lower extremity arteries & veins anatomy memo](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/03_PtInfo_VascularAnatomy_LEarteriesveins.pdf) |
 |05 | [Pre-op: iMed consent](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/05_PreOp_iMedConsent) |
-|05 | [Procedure: Varithena in SACC D](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/06_VenousProcedures_SACCD_Varithena.md)
+|05 | [Procedure: Varithena in SACC D](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/06_VenousProcedures_SACCD_Varithena)
 |06 | [<b>Post-op orders</b>](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/06_PostOpOrders_VenousAblation) |
 |10 | [Patient discharge instructions](https://nealbarshes-protocols.github.io/Protocols/Protocols_Venous/10_DischargeInstructions_VenousAblation.md) |
 |11 | Patient education, post-op |
