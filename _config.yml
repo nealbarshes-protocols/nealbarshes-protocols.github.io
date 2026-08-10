@@ -15,7 +15,7 @@ search:
 nav_enabled: true
 heading_anchors: true
 
-footer_content: "© 2026 by Neal Ryan Barshes, MD, MPH is licensed under CC BY-NC 4.0"
+footer_content: "©2026 by Neal Ryan Barshes, MD, MPH and licensed under Creative Commons BY-NC 4.0"
 
 plugins:
   - jekyll-remote-theme
