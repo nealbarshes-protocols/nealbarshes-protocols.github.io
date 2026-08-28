@@ -9,20 +9,13 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 
 ### orders / protocols for aortic procedures: EVAR, TEVAR, FEVAR, open surgical repairs for aneurysms
 
-
 |num| Component |
 | --- | --- |
-|01 | History/ROS, additional info to solicit |
-|02 | Patient instructions |
 |03 | [Patient education, pre-op: AAA anatomy memo](https://nealbarshes-protocols.github.io/Protocols/Protocols_Aortic/03_PtInfo_VascularAnatomy_AAA.pdf) |
 |03 | [Patient education, pre-op: aorta in entirety anatomy memo](https://nealbarshes-protocols.github.io/Protocols/Protocols_Aortic/03_PtInfo_VascularAnatomy_AortaEntirety.pdf) |
 |03 | [Patient education, pre-op: SVS AAA flyer](https://nealbarshes-protocols.github.io/Protocols/Protocols_Aortic/03_PtInfo_SVS_AAA.pdf) |
-|04 | Brillians code  |
-|05 | Pre-op checklist, additional items |
-|06 | [<b>Post-op orders</b>](https://nealbarshes-protocols.github.io/Protocols/Protocols_Aortic/06_PostOpOrders_AorticOpenSurgery) |
-|07 | Post-op problems: protocols |
-|08 | Inpatient SOAP note template |
-|09 | Discharge planning |
-|10 | Patient discharge instructions |
-|11 | Patient education, post-op |
-|12 | Clinic follow-up |
+
+In addition to typically-required pre-operative workup, patients should have 2u pRBCs for ABFs or other open aortic operations done for **occlusive disease** vs. 4u pRBC + 1 FFP for open aortic operations done for **aneurysms**.
+
+[These are <b>open aortic post-op orders</b>](https://nealbarshes-protocols.github.io/Protocols/Protocols_Aortic/06_PostOpOrders_AorticOpenSurgery). Please also use the [CSF drain protocol](https://nealbarshes-protocols.github.io/assets/MEDVAMC CSF drain protocol_v2.pdf) for patients who have these.
+
