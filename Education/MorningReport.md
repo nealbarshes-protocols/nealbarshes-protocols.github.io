@@ -38,9 +38,7 @@ Clinic volumes, coverage.
 OR cases, plans for add-ons or second rooms.
 
 
-### Ensuring Continuous Education and :  
+### Ensuring Education and Continuous Quality Improvement:  
 
-Conferences: Tuesday pre-op and Friday M&M.  
-Reminder about Thursday 12:30 conference. Food at 12:15.  
-Check-in on surgery resident SMART goals.  
-VSCORE TWIS topic.  
+Mondays: discuss cases for Tuesday pre-op conference, Thursday noon (in-clinic) conference, and plans for Friday M&M vs. didactics. VSCORE TWIS topic.  
+Thursdays: discuss challenges and highlights of the week (shout-outs). 
