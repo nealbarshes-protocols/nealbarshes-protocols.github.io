@@ -22,6 +22,12 @@ This workflow applies to patients who are **currently admitted** to another inpa
 3. Make a Service Connected choice: Yes/No. For vascular problems, always "No" for Agent Orange and Military Sexual Trauma.
 4. Add the on-call staff surgeon to the providers and designate him/her as "Primary".
 
+## Patients having an operation outside of elective OR hours
+Block time is 7:30/8:30(Wednesdays) to 3:30pm Monday through Friday. To add on cases for the **same** or **next day**, first call the OR front desk if late afternoon M-F to see if the charge nurse and on-call anesthesiologist are still there. Next, fill out a **paper slip** for the add-on case. 
+
+If nighttime or weekends, follow this ["Emergency Surgery Protocol"](https://nealbarshes-protocols.gitub.io/assets/MEDVAMC_OCL_2025_SOP_112-066_PostingEmergencySurgicalProcedureOnCall.pdf).
+
+
 
 <hr>
 
