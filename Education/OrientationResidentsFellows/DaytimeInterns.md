@@ -20,7 +20,10 @@ You should write the admission OCL H&P and admission orders on patients getting 
 Use the ["all patient" Protocols page](https://nealbarshes-protocols.github.io/Protocols/Protocols_AllPatients/07_PostOpOrders_AllPatients/) **and** the [problem-specific Protocols page](https://nealbarshes-protocols.github.io/Protocols/) for full admission/pre-op/post-op order sets.
 
 ## 4. Maintaining the inpatient list
+Tidy it every day! Especially the ACTIVE problems column. In this column, there should be only **one** date that has curly brackets (important for the length-of-stay calculation): for initial procedure. Use regular parenthesis for other dates.
+
 All cells should contain either text/numbers alone or a copied formula from another row in that same column. Except for yellow fill for the "ACTIVE PROBLEM" column (column F) of a "watcher", do NOT manually color fill cells; let the conditional formatting work. 
+
 
 ## 5. Presenting at Morning Report
 See [morning report](https://nealbarshes-protocols.github.io/Education/MorningReport.html) for advice on keeping it concise and focused.
