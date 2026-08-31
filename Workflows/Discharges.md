@@ -7,11 +7,13 @@ nav_order: 7
 This page provides guidance on routine discharges from inpatient hospitalization. There is also a [one-sheet discharge checklist PDF version](https://nealbarshes-protocols.github.io/assets/VascularTeam_DischargeProtocol_Zamani.pdf).
 
 <hr>
+
 # Soon after admission:
 Confirm the patient has a discharge location with adequate physical and social support.
 Ask if the patient has planned transportation to get there.
 
 <hr>
+
 # Day BEFORE Discharge
 
 ### Medication reconciliation process
