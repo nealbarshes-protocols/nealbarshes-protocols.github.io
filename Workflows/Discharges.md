@@ -44,14 +44,6 @@ Do NOT overbook unless instructed to by an attending surgeon.
 ![RTC orders](https://nealbarshes-protocols.github.io/assets/Thumbnail_OrdersRTC.png)
 
 
-    “HOU VAS SURGERY POST-OP 1653A” if surgical incision or >8Fr access.  
-    “HOU PHONE VASCULAR SURG” for follow-up after all other operations/procedures.  
-    "HOU VAS SURGERY PRE-OP 1652" if patient needs to be pre-op'ed for another operation.
-
-
-
-
-
 
 
 
