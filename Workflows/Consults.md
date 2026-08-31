@@ -7,7 +7,7 @@ nav_order: 3
 ## Expectations for ALL consults:
 1. Team/individual requesting consultation or clinical input enters in a CPRS consult for our team. We don't do "curbsides".
 2. See and evaluate the patient before discussing with the on-call staff surgeon (found on the [schedule](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ESRAqVRn2DBIjt3UjByYPWoBuwdnmQ7z4zldQHDqAxmKWQ?e=spYbAW)).
-3. Consult note is written by the level-appropriate trainee who sees, evaluates and discusses the consult with the on-call staff surgeon . This level-appropriate trainee will typically be the **on-call senior resident**, with exceptions for consults that can be seen by the night float intern. This note should have the "Vascular Surgery Note"; it should not be an OCL History/Physical.
+3. Consult note using this [consult note template](https://nealbarshes-protocols.github.io/CPRSnoteTemplates/ConsultInpatient.md) is written by the level-appropriate trainee who sees, evaluates and discusses the consult with the on-call staff surgeon . This level-appropriate trainee will typically be the **on-call senior resident**, with exceptions for consults that can be seen by the night float intern. This note should have the "Vascular Surgery Note"; it should not be an OCL History/Physical.
 4. Add on-call staff surgeon and consulting individual as co-signers on your note.
 5. Call consulting individual or member of team requesting consultation to discuss findings and recommendations.
 6. Add patient information on the "Consults" tab of the [inpatient list](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/ET6QmP7q2EhNgUnzmBfik5kB5QQhS9TTqMkWnsGOlgbreg?e=1E1lkR).  
