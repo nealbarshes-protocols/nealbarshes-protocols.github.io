@@ -61,7 +61,7 @@ This explains how to import our note templates into your CPRS for easy access an
 4. Name your new template. Would recommend "Vascular_", example "Vascular_PulseExam".
 5. Select "Dialog" or "Template", depending on the description of what you're importing.
 6. Would recommend ordering them using the arrows, organizing within folders.
-7. Required: the [intern signature block](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/SignatureBlock_Intern.md) or the [senior signature block](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/SignatureBlock_Senior.md), and use it on ALL notes. 
+7. Required: the [intern signature block](https://nealbarshes-protocols.github.io/CPRSnoteTemplates/SignatureBlock_Intern.md) or the [senior signature block](https://nealbarshes-protocols.github.io/CPRSnoteTemplates/SignatureBlock_Senior.md), and use it on ALL notes. 
 
 ![dialog or template import](https://nealbarshes-protocols.github.io/assets/Thumbnail_NotesTemplateImport.png)
 
