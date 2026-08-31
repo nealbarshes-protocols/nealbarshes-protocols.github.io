@@ -23,19 +23,17 @@ nav_order: 1
 
 # On-boarding to be completed by the end of day 1
 
-## Our Team Ethos
-Read about [our team](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/AboutOurTeam).
+## 1. Our Team
+Learn about [our team](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/AboutOurTeam).
 
-
-## Roles and Expectations
+## 2. Roles and Expectations
 Review the [expectations of all residents and fellows](https://nealbarshes-protocols.github.io/Education/OrientationResidentsFellows/AllTrainees.html) and your level-specific roles, duties and expectations: 
 1. [Daytime intern](DaytimeInterns.md)
 2. [Senior resident or fellow](SeniorTrainee.md)
 3. [Night float](NightFloat.md)
 
 
-
-## iMed Consent Best Practices
+## 3. iMed Consent Best Practices
 
 Here's a brief (3 minute 19 second) video primer on avoiding common errors in using iMed for informed consent:
 <p>
@@ -46,7 +44,7 @@ Here's a brief (3 minute 19 second) video primer on avoiding common errors in us
 
 
 
-## Completing Encounter Information
+## 4. Completing Encounter Information
 
 Here's video primer (6 minute 47 second) on completing encounter information:
 <p>
@@ -55,7 +53,7 @@ Here's video primer (6 minute 47 second) on completing encounter information:
   </a>
 </p>
 
-## Importing CPRS Note-Writing Templates
+## 5. Import CPRS Note-Writing Templates
 This explains how to import our note templates into your CPRS for easy access and full functionality. 
 1. In CPRS, click on the "Notes" tab.
 2. At the top, select "Options" --> "Edit Templates".
@@ -63,11 +61,12 @@ This explains how to import our note templates into your CPRS for easy access an
 4. Name your new template. Would recommend "Vascular_", example "Vascular_PulseExam".
 5. Select "Dialog" or "Template", depending on the description of what you're importing.
 6. Would recommend ordering them using the arrows, organizing within folders.
+7. Required: the [intern signature block](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/SignatureBlock_Intern.md) or the [senior signature block](https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/SignatureBlock_Senior.md), and use it on ALL notes. 
 
 ![dialog or template import](https://nealbarshes-protocols.github.io/assets/Thumbnail_NotesTemplateImport.png)
 
 
-## Highlight CPRS Notes with "Vascular"
+## 6. Highlight CPRS Notes with "Vascular"
 This explains how to customize your "Notes" view to have notes with "Vascular" in their title automatically highlighted in bold, also listed in a right-window when you first open the patient's chart. 
 1. In CPRS, click on the "Notes" tab.
 2. At the top, select "View" --> "Custom View".
@@ -75,23 +74,18 @@ This explains how to customize your "Notes" view to have notes with "Vascular" i
 
 ![highlighting vascular notes](https://nealbarshes-protocols.github.io/assets/Thumbnail_NotesHighlighting.png)
 
-## Parking Hangtag
-
-Use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/Lists/registration/Requestor_View.aspx?xsdata=MDV8MDF8fDRmYWU2Y2IxM2JmOTQ4MTY4ZjZhMDhkYWZmMGI4ZjhifGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2MzgxMDI3MjIzNDQzNTc3Mzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTkRZM05UUXpNekV6T0RzeE5qYzBOamMxTkRNek1UTTRPekU1T2pBek16SmxZVEEyTFRneU9UZ3ROR0l4TlMwNE5XUmhMV1ZsWVRsaFlqWXdZalV4TWw4NU5qSmpPRFk1WXkxaU5ESXlMVFE1TXpBdFlqYzJNaTAwTURrMll6RXdZV1V4T1dGQWRXNXhMbWRpYkM1emNHRmpaWE09fGRmNmIzMDA0MWEwNzQ2MTk4ZjZhMDhkYWZmMGI4ZjhifDRjMjA0Njk0YWVkZTQ1NTNhNTY2OTFhZjg3ZmI5OGZk&sdata=cHZsc2U3VE5DM3JZZ2ZPVVhYYzB4OW4waTNOYk1zOWdVSi96ZlFPZUlKTT0%3D&ovuser=e95f1b23-abaf-45ee-821d-b7ab251ab3bf%2cNathan.Schaeffer%40va.gov&OR=Teams-HL&CT=1674742794033&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) to access the parking tower when returning from BCM conferences. NOTE: This link will only work on VA computers. 
-
-## Additional Items
+## 7. Additional Items
 1. Add your name and contact information to the [team roster](https://dvagov-my.sharepoint.com/:w:/g/personal/neal_barshes_va_gov/EWOepLgwomhCpGkVNxiDmusBOtmFvgRcy_gSczzoW9qksg?e=rILDjG). 
 2. Verify your contact information is correct on [QGenda](https://app.qgenda.com/landingpage/medva).
 3. Get size-appropriate two-piece lead from Dr. Zamani. 
 
+## 8. Parking Hangtag
 
+PGY-4 surgery and all vascular trainees, use this [Sharepoint parking hangtag request form](https://dvagov.sharepoint.com/sites/VHAhoustonvamc/Police/Lists/registration/Requestor_View.aspx?xsdata=MDV8MDF8fDRmYWU2Y2IxM2JmOTQ4MTY4ZjZhMDhkYWZmMGI4ZjhifGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2MzgxMDI3MjIzNDQzNTc3Mzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTkRZM05UUXpNekV6T0RzeE5qYzBOamMxTkRNek1UTTRPekU1T2pBek16SmxZVEEyTFRneU9UZ3ROR0l4TlMwNE5XUmhMV1ZsWVRsaFlqWXdZalV4TWw4NU5qSmpPRFk1WXkxaU5ESXlMVFE1TXpBdFlqYzJNaTAwTURrMll6RXdZV1V4T1dGQWRXNXhMbWRpYkM1emNHRmpaWE09fGRmNmIzMDA0MWEwNzQ2MTk4ZjZhMDhkYWZmMGI4ZjhifDRjMjA0Njk0YWVkZTQ1NTNhNTY2OTFhZjg3ZmI5OGZk&sdata=cHZsc2U3VE5DM3JZZ2ZPVVhYYzB4OW4waTNOYk1zOWdVSi96ZlFPZUlKTT0%3D&ovuser=e95f1b23-abaf-45ee-821d-b7ab251ab3bf%2cNathan.Schaeffer%40va.gov&OR=Teams-HL&CT=1674742794033&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) to access the parking tower when returning from BCM conferences. NOTE: This link will only work on VA computers. 
 
 ## Orientation Quiz 
 
 Depending on your level, take the [intern quiz](https://www.surveymonkey.com/r/JYJTG35) or [senior quiz](https://www.surveymonkey.com/r/P2VSHPS) by the end of your first day on service. 
-
-
-
 
 
 <hr>
