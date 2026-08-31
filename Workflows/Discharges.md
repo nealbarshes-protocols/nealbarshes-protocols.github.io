@@ -36,7 +36,8 @@ Written by: Orders tab--> RTC Main Menu--> OCL Clinics --> Vascular
 | --- | --- |
 | surgical incision or >8Fr sheath access (ex. pecutaneous EVAR) | HOU VAS SURGERY POST-OP 1653A |
 | all other operations/procedures | HOU PHONE VASCULAR SURG |
-| has an OR date and needs pre-op pre | HOU VAS SURGERY PRE-OP 1652 |
+| has an OR date and needs pre-op prep | HOU VAS SURGERY PRE-OP 1652 |
+| patient known to us, no new operation, needs long-term follow-up | HOU VAS SURG SILVER 1658F |
 
 NOTE: the "HOU VAS SURGERY INITIAL" should generally NOT be used for patients known to us.
 Do NOT overbook unless instructed to by an attending surgeon. 
