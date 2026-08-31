@@ -66,12 +66,12 @@ Use these note-writing templates for inpatient notes:
 
 | description | type |  
 | --- | --- |
-| [progress note, main body](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/_CPRSnoteTemplates/Exam_SurgicalSite.md) | dialog |  
-| [exam, surgical site](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/_CPRSnoteTemplates/Exam_SurgicalSite.md) | dialog |  
-| [exam, vascular/pulse](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/_CPRSnoteTemplates/Exam_VascularLowerExt.md) | dialog |  
-| [chart summary]([https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/ChartSummary.md](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/_CPRSnoteTemplates/ChartSummary.md)) | dialog |  
-| [assessment & plan, default](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/_CPRSnoteTemplates/AP_Default.md) | dialog |  
-| [antiplatelet-anticoagulant plan](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/_CPRSnoteTemplates/AP_AntiplateletAnticoagulant.md) | dialog |  
+| [progress note, main body](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/CPRSnoteTemplates/Exam_SurgicalSite.md) | dialog |  
+| [exam, surgical site](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/CPRSnoteTemplates/Exam_SurgicalSite.md) | dialog |  
+| [exam, vascular/pulse](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/CPRSnoteTemplates/Exam_VascularLowerExt.md) | dialog |  
+| [chart summary]([https://nealbarshes-protocols.github.io/_CPRSnoteTemplates/ChartSummary.md](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/CPRSnoteTemplates/ChartSummary.md)) | dialog |  
+| [assessment & plan, default](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/CPRSnoteTemplates/AP_Default.md) | dialog |  
+| [antiplatelet-anticoagulant plan](https://raw.githubusercontent.com/nealbarshes-protocols/nealbarshes-protocols.github.io/refs/heads/main/CPRSnoteTemplates/AP_AntiplateletAnticoagulant.md) | dialog |  
 
 
 <hr>
