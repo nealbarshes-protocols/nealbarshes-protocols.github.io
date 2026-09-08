@@ -37,3 +37,11 @@ Order a follow-up ("return to clinic") appointment: Orders tab --> "Return to Cl
 
 ## Patient Contact Log
 [Calls to 5C or via messaging](https://dvagov-my.sharepoint.com/:x:/g/personal/neal_barshes_va_gov/IQBZe9NmgV4JRa7Cq2TGwDxwAZMDErafn5Ud4KHo7SPbmv0?e=RRxzDA) [NOTE: for our NPs and staff surgeons only].
+
+
+
+## Common clinic follow-up scenarios:
+
+#### s/p EVAR
+
+Late follow-up in clinic: use the [EVAR surveillance note template](http://nealbarshes-github.io/CPRSnoteTemplates/EVARsurveillance.md) to track sizes over time. 
