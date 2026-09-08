@@ -44,4 +44,4 @@ Order a follow-up ("return to clinic") appointment: Orders tab --> "Return to Cl
 
 #### s/p EVAR
 
-Late follow-up in clinic: use the [EVAR surveillance note template](https://nealbarshes-github.io/CPRSnoteTemplates/EVARsurveillance.md) to track sizes over time. 
+Late follow-up in clinic: use the [EVAR surveillance note template](http://nealbarshes-protocols.github.io/CPRSnoteTemplates/EVARsurveillance.md) to track sizes over time. 
