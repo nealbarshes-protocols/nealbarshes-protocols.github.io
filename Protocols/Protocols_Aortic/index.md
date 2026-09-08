@@ -19,5 +19,5 @@ In addition to typically-required pre-operative workup, patients should have 2u 
 
 [These are <b>open aortic post-op orders</b>](https://nealbarshes-protocols.github.io/Protocols/Protocols_Aortic/06_PostOpOrders_AorticOpenSurgery). Please also use the [CSF drain protocol](https://nealbarshes-protocols.github.io/assets/MEDVAMC_CSFdrainprotocol.pdf) for patients who have these. 
 
-Late follow-up in clinic: use the [EVAR surveillance note template](http://nealbarshes-github.io/CPRSnoteTemplates/EVARsurveillance.md) to track sizes over time. 
+Late follow-up in clinic: use the [EVAR surveillance note template](http://nealbarshes-protocols.github.io/CPRSnoteTemplates/EVARsurveillance.md) to track sizes over time. 
 
