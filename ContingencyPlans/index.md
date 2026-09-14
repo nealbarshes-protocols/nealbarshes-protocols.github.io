@@ -13,7 +13,7 @@ has_children: false
 
 ## 3. [Weather-related impacts on clinical care](https://nealbarshes-protocols.github.io/ContingencyPlans/WeatherEvents/)
 
-## 4. [Transitioning clinical duties when fatigue or work hours are an issue](https://nealbarshes-protocols.github.io/ContingencyPlans/Fatigue.md)
+## 4. [Transitioning clinical duties when fatigue or work hours are an issue](https://nealbarshes-protocols.github.io/ContingencyPlans/Fatigue)
 
 
 ![team logo](https://nealbarshes-protocols.github.io/assets/DeBakeyDecal_400px.png)
