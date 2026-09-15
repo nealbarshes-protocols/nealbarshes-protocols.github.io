@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 
 ============================================================================
 PAST MEDICAL HISTORY (as recorded in CPRS)
