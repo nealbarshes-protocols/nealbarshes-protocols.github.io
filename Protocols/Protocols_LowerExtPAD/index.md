@@ -9,7 +9,7 @@ gtag('config', 'G-YPLVGC5FDP'); </script>
 
 ### Limb salvage tutorials
 
-See the separate [<b>limb salvage tutorials</b>](https://nealbarshes.github.io/Tutorials/PAD/) for everything related to limb salvage: PAD identification, revascularization, post-operative orders, etc., including [pre-hydration and contrast allergy protocols](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/tutorials/peripheral-artery-disease/endovascular-interventions.md#special-situations)
+See sections under "**Peripheral artery disease**" on the "[<b>Tutorials webpage</b>](https://nealbarshes.github.io/Tutorials/)" page for everything related to limb salvage: PAD identification, revascularization, post-operative orders, etc.. This includes [pre-hydration and contrast allergy protocols](https://github.com/nealbarshes/nealbarshes.github.io/blob/main/tutorials/peripheral-artery-disease/endovascular-interventions.md#special-situations).
 
 
 
