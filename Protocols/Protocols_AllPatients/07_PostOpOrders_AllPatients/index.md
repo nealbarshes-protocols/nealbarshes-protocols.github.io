@@ -102,15 +102,5 @@ Additional medications for other indications:
 >11. metoprolol 12.5mg PO q6H PRN "systolic blood pressure >160mmHg, second line"  
 
 
-#### By AM of POD1 / Hospital Day 1: 
-Follow-up on labs and imaging. 
 
-Re: troponins & EKG => consult cardiology or vascular medicine consult if:
-#1: an increase in CK-MB level >10 times the ULN or an increase in CK-MB >5 times the ULN accompanied by clinical evidence of myocardial ischemia. 
-#2: an absolute increase in hs-cTnT of ≥14 ng/l from preoperative to postoperative measurements, corresponding to the 99th percentile of hs-cTnT in healthy individuals. 
-#3: any new findings on EKG
-
-Iron studies are abnormal: consider IV iron if trasferrin saturation (TSAT) <15% (more predictive of benefits of IV iron than serum ferritin); TSAT <20%, or ferritin >100 mcg/L.
-
-#2: an absolute increase in hs-cTnT of ≥14 ng/l from preoperative to postoperative measurements, corresponding to the 99th percentile of hs-cTnT in healthy individuals. 
 
