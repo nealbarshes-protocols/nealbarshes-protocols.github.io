@@ -54,8 +54,19 @@ CXR if operation done under general anesthesia or any respiratory symptoms.
 
 
 
-### constipation: no bowel movement in 3 or more days
 
+#### abnormal troponins or abnormal EKG 
+Consult cardiology or vascular medicine consult if:
+>1. CK-MB level >10 times the  upper limit of normal.
+>2. CK-MB >5 times the upper limit of normal. 
+#2: hs-cTnT absolute increase of ≥14 ng/l from preoperative baseline (corresponds to the 99th percentile of hs-cTnT in healthy individuals). 
+#3: any new findings on EKG.
+
+
+#### Anemia (hemoglobin <11%):
+Discuss RBC transfusion with staff surgeon.
+
+Consider IV iron if trasferrin saturation (TSAT) <15% (more predictive of benefits of IV iron than serum ferritin); TSAT <20%, or ferritin >100 mcg/L.
 
 
 
