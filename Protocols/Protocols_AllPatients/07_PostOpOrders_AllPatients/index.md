@@ -58,6 +58,7 @@ Text order: "Up to chair with assistance for at least three hours daily."
 >6. If post-op from operation >3 hours, fluids >1L, EBL>300, or any RBC transfusion: add troponins, hs-cTNT and EKG.
 >7. If admitted with concern for infection: add procalcitonin, c-reactive protein (CRP), MRSA nasal swab and/or baseline urinalysis.
 >8. If admitted from SNF or nursing home: add MRSA nasal swab, urinalysis and stool C. difficile toxin assay
+>9. If anemic (hemoglobin <11gm/dL) at admission: reticulocyte count; iron studies (serum iron, TIBC, ferritin; transferrin); TSH; B12 level; folic acid; ESR; hepatitis panel.
 
 Please do NOT enter daily pan-lab orders for inpatients; generally, 2x/week is sufficient for patients with oral intake who are not on hemodialysis.
 
