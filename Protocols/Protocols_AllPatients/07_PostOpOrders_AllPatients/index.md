@@ -55,7 +55,9 @@ Text order: "Up to chair with assistance for at least three hours daily."
 >3. PT/INR and PTT.
 >4. Type & screen.
 >5. Brain naturetic peptide (BNP) for patients with ejection fraction <40%.
->6. Consider procalcitonin, c-reactive protein (CRP), MRSA nasal swab and/or baseline urinalysis.
+>6. If post-op from operation >3 hours, fluids >1L, EBL>300, or any RBC transfusion: add troponins, hs-cTNT and EKG.
+>7. If admitted with concern for infection: add procalcitonin, c-reactive protein (CRP), MRSA nasal swab and/or baseline urinalysis.
+>8. If admitted from SNF or nursing home: add MRSA nasal swab, urinalysis and stool C. difficile toxin assay
 
 Please do NOT enter daily pan-lab orders for inpatients; generally, 2x/week is sufficient for patients with oral intake who are not on hemodialysis.
 
@@ -82,9 +84,9 @@ Hint: Back out from the "Vascular Surgery" order set <-- Surgery orders <-- then
 
 From the "Pain Medication Orders order set":
 >1. Acetaminophen 500 milligrams PO q6h scheduled x 48 hours, then PRN "pain (pain score level 4+)".
->2. Tramadol 50mg PO q3h PRN "pain (level 4+), second line after acetaminophen". For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.
->3. Codeine 30mg tablet (i.e. without acetaminophen) q6h PRN "pain (level 4+), third line after acetaminophen".
->4. Morphine 4mg IV q3 hours PRN "pain (level 4+), fourth line after acetaminophen".
+>2. Tramadol 50mg PO q3h PRN "pain (level 4+), second line -- only after acetaminophen has been given". For eGFR <30 mL/min, 50 mg PO every 6 hours. Contraindications: history of seizures, monoamine oxidase inhibitor (MAOI) use, or selective serotonin reuptake inhibitor (SSRI) use.
+>3. Codeine 30mg tablet (i.e. without acetaminophen) q6h PRN "pain (level 4+), third line -- only after acetaminophen AND tramadol have been given".
+>4. Morphine 4mg IV q3 hours PRN "pain (level 4+), fourth line -- only after acetaminophen, tramadol AND codeine have been given".
 
 Additional medications for pain:  
 >5. Gabapentin tab 300mg (--> up to 1200mg if already on home dose) PO q8hr thereafter. If eGFR <30mL/min, 200 mg PO once daily (--> max dose 700 mg once daily).  
@@ -97,4 +99,12 @@ Additional medications for pain:
 Additional medications for other indications:  
 >10. metoprolol 5mg IV q6H PRN "systolic blood pressure >160mmHg, first line"  
 >11. metoprolol 12.5mg PO q6H PRN "systolic blood pressure >160mmHg, second line"  
+
+
+#### By AM of POD1 / Hospital Day 1: 
+Follow-up on labs and imaging. 
+
+Cardiology or vascular medicine consult if:
+#1: an increase in CK-MB level >10 times the ULN or an increase in CK-MB >5 times the ULN accompanied by clinical evidence of myocardial ischaemia. 
+#2: an absolute increase in hs-cTnT of ≥14 ng/l from preoperative to postoperative measurements, corresponding to the 99th percentile of hs-cTnT in healthy individuals. 
 
