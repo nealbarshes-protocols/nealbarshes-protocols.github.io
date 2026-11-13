@@ -21,7 +21,7 @@ nav_order: 9
 2. Clear ALL your CPRS alerts.
 3. Sign all D/C summaries and orders.
 4. Assign a "surrogate" signer: under "Tools", "Options", "Surrogates" tab. Should be the resident taking over your role.
-5. Please complete this before getting end-of-rotation feedback from the staff surgeons, either as a group or 1:1.
+5. Please complete the [MEDVAMC vascular surgery outboarding checklist & survey](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7o9qE0SMk2I8LcoianpJqsri7CifExKoL_-E0qOUKRUMU5QMTFMSUhRQ1NQMFg1QVdQNjQyUU5ZVC4u) before getting end-of-rotation feedback from the staff surgeons, either as a group or 1:1. Use the version below or via [separate link in a full window](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7o9qE0SMk2I8LcoianpJqsri7CifExKoL_-E0qOUKRUMU5QMTFMSUhRQ1NQMFg1QVdQNjQyUU5ZVC4u).
 
 <iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=U7o9qE0SMk2I8LcoianpJqsri7CifExKoL_-E0qOUKRUMU5QMTFMSUhRQ1NQMFg1QVdQNjQyUU5ZVC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
