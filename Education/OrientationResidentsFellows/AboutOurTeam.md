@@ -13,14 +13,16 @@ We are proud to serve a **diverse patient population**: 55% of our limb salvage 
 
 For the past decade, our vascular surgery team has had observed-to-expected (O:E) ratios for perioperative mortality and morbidity that are well below 1.0. These often reaching statistically-significant margins below 1.0 (i.e. that our team is a "low outlier" for perioperative complications; example mortality O:E of 0.38 for our vascular surgery team in spring 2026). 
 
-Multidisciplinary efforts led by our team have [reduced the leg amputation incidence rate among diabetic Veterans by 60%](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745363/).
+Multidisciplinary efforts led by our team have led to a [3x reduction in the leg amputation incidence rate among diabetic Veterans](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745363/).
 
 <blockquote style="border: 2px solid ##f6ff7a; font-style: normal; padding: 15px; font-size:18px; background-color: ##fdffde;">
 These clinical achievements have occurred through <b>consistency</b>, <b>communication</b>, being <b>proactive</b> rather than reactive, and pursuing <b>continuous improvement</b>.</blockquote>
 
-The clinical protocols and workflows contained on these webpages will help ensure **consistency**. We are fond of **communication** that is accurate, succint and direct (rather than indirect, layered, or hierarchical). Team-wide communication occurs in our [team morning report](https://nealbarshes-protocols.github.io/Education/MorningReport.html), Mondays and Thursdays at 0745am.
+The clinical protocols and workflows contained on these webpages will help ensure **consistency**. We are fond of **communication** that is direct, succinct and accurate. Team-wide communication occurs in our [team morning report](https://nealbarshes-protocols.github.io/Education/MorningReport.html), Mondays and Thursdays at 0745am. 
 
-In addition to morning report, **continuous improvement** is developed at M&M conference with presentations. Hospital systems issues should be reported using the Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F). 
+Our team excels in being  **proactive** in identifying and course correcting initial complications or other deviations from the post-op recovery "flight path". We are not a "wait and see" kind of team, and we thereby minimize ["failure to rescue"](https://pubmed.ncbi.nlm.nih.gov/26616276/) (case fatality ratees once a serious complication occurs).
+
+In addition to morning report, **continuous improvement** is developed at Morbidity and Mortality / "Patient Safety Investigation" conferences. Hospital systems issues should be reported using the Veterans Healthcare Administration's [“Joint Patient Safety Reporting” (JPSR)](https://ias.csd.disa.mil/amserver/RUI/?realm=/pki&goto=https%3A%2F%2Fpatientsafety.csd.disa.mil%3A443%2F). 
 
 <br>
 
